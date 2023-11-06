@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>NAV_ITEM_SELECTED_RELAY_e639868907adf510151cfc018c1ed065</event_name>
+        <interfaces/>
+        <label>Link to destination Relay (review page record producer default)</label>
+        <props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"Remove previous URL from browser history"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background (advanced)"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title (advanced)"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi-instance field (advanced)"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub-navigation route (advanced)"},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props>
+        <required_translations>[ {
+  "message" : "External URL object",
+  "comment" : ""
+}, {
+  "message" : "Load in background (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Multi-instance field (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Optionals parameters",
+  "comment" : ""
+}, {
+  "message" : "Remove previous URL from browser history",
+  "comment" : ""
+}, {
+  "message" : "Route fields",
+  "comment" : ""
+}, {
+  "message" : "Route type",
+  "comment" : ""
+}, {
+  "message" : "Sub-navigation route (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Title (advanced)",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 10:31:56</sys_created_on>
+        <sys_id>8c0b8a0d07adf510151cfc018c1ed07b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (review page record producer default)</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_event_8c0b8a0d07adf510151cfc018c1ed07b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 10:31:56</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=8c0b8a0d07adf510151cfc018c1ed07b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_event_8c0b8a0d07adf510151cfc018c1ed07b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>NAV_ITEM_SELECTED_RELAY_e639868907adf510151cfc018c1ed065</event_name><interfaces/><label>Link to destination Relay (review page record producer default)</label><props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"Remove previous URL from browser history"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background (advanced)"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title (advanced)"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi-instance field (advanced)"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub-navigation route (advanced)"},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props><required_translations>[ {
+  "message" : "External URL object",
+  "comment" : ""
+}, {
+  "message" : "Load in background (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Multi-instance field (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Optionals parameters",
+  "comment" : ""
+}, {
+  "message" : "Remove previous URL from browser history",
+  "comment" : ""
+}, {
+  "message" : "Route fields",
+  "comment" : ""
+}, {
+  "message" : "Route type",
+  "comment" : ""
+}, {
+  "message" : "Sub-navigation route (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Title (advanced)",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-26 10:31:56</sys_created_on><sys_id>8c0b8a0d07adf510151cfc018c1ed07b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Link to destination Relay (review page record producer default)</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_event_8c0b8a0d07adf510151cfc018c1ed07b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-26 10:31:56</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=8c0b8a0d07adf510151cfc018c1ed07b"/></record_update>]]></payload>
+        <payload_hash>1128048014</payload_hash>
+        <record_name>Link to destination Relay (review page record producer default)</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 10:31:57</sys_created_on>
+        <sys_id>0c0b8a0d07adf510151cfc018c1ed07e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad10bab050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 10:31:57</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>040b8a0d50adf510f3e81209cc0c757e</update_guid>
+        <update_guid_history>040b8a0d50adf510f3e81209cc0c757e:1128048014</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 10:37:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>1a70eed56c424d79846009f283c78ad9</sys_id>
+        <sys_metadata>8c0b8a0d07adf510151cfc018c1ed07b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (review page record producer default)</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_event_8c0b8a0d07adf510151cfc018c1ed07b</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_8c0b8a0d07adf510151cfc018c1ed07b">0c0b8a0d07adf510151cfc018c1ed07e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 10:37:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

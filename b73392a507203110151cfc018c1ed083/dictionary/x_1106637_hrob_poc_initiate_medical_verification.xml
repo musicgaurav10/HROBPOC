@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cbefacad07743110151cfc018c1ed01e" label="Initiate Medical Verification" max_length="40" name="x_1106637_hrob_poc_initiate_medical_verification" text_index="true" type="collection">
+        <element label="Address:" max_length="40" name="address" type="string"/>
+        <element label="Mobile Phone:" max_length="40" name="mobile_phone" type="phone_number_e164"/>
+        <element label="Name:" max_length="40" name="name" type="string"/>
+        <element label="Onboarding Start Date:" max_length="40" name="onboarding_start_date" type="string"/>
+        <element label="Onboarding Status:" max_length="40" name="onboarding_status" type="string"/>
+        <element label="Personal Email:" max_length="40" name="personal_email" type="string"/>
+        <element label="Profile Photo" max_length="40" name="profile_photo" type="string"/>
+    </element>
+</database>

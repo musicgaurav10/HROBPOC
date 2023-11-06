@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>All Dashboards</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 07:10:15</sys_created_on>
+        <sys_id>0a704cdf63603110c9375bcd07a57b6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_screen_type_0a704cdf63603110c9375bcd07a57b6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 07:10:15</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_screen_type_0a704cdf63603110c9375bcd07a57b6d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>All Dashboards</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-14 07:10:15</sys_created_on><sys_id>0a704cdf63603110c9375bcd07a57b6d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All Dashboards</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_screen_type_0a704cdf63603110c9375bcd07a57b6d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-14 07:10:15</sys_updated_on></sys_ux_screen_type></record_update>]]></payload>
+        <payload_hash>692819693</payload_hash>
+        <record_name>All Dashboards</record_name>
+        <reverted_from/>
+        <source>7d81e6a307103110151cfc018c1ed001</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-08-03 03:16:41</sys_created_on>
+        <sys_id>a876249b07243110151cfc018c1ed072</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>189b965c1a80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Screen Collection</type>
+        <update_guid>6876249be5243110bf8564ac84419372</update_guid>
+        <update_guid_history>6876249be5243110bf8564ac84419372:692819693</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 09:56:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>09a1eb94a3bc46a8884ee8077a555c61</sys_id>
+        <sys_metadata>0a704cdf63603110c9375bcd07a57b6d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_0a704cdf63603110c9375bcd07a57b6d</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_0a704cdf63603110c9375bcd07a57b6d">a876249b07243110151cfc018c1ed072</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 09:56:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

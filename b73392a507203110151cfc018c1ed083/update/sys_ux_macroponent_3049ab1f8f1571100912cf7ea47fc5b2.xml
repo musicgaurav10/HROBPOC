@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "container_1",
+  "elementLabel" : "Container 1",
+  "propertyValues" : {
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "",
+        "comment" : ""
+      }
+    },
+    "bare" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "4b8588d1ef6ef74fbf981f602d6ae48f",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "container_1_Main",
+      "elementLabel" : "Main",
+      "propertyValues" : {
+        "ariaRegionHeadingLevel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "1"
+        },
+        "hideEmptyStateUi" : {
+          "type" : "JSON_LITERAL",
+          "value" : true
+        },
+        "ariaRegionName" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "",
+            "comment" : ""
+          }
+        },
+        "includeAriaHeading" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "type" : {
+          "type" : "JSON_LITERAL",
+          "value" : "section"
+        },
+        "ariaRole" : {
+          "type" : "JSON_LITERAL",
+          "value" : ""
+        }
+      },
+      "eventMappings" : [ ],
+      "slot" : null,
+      "definition" : {
+        "id" : "d356d14b6e293a3020a244b63d278d8f",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : {
+        "composition" : [ {
+          "elementId" : "breadcrumbs_1",
+          "elementLabel" : "Breadcrumbs 1",
+          "propertyValues" : {
+            "overflow" : {
+              "type" : "JSON_LITERAL",
+              "value" : "collapse"
+            },
+            "delimiter" : {
+              "type" : "JSON_LITERAL",
+              "value" : "chevron"
+            },
+            "items" : {
+              "type" : "DATA_OUTPUT_BINDING",
+              "binding" : {
+                "address" : [ "breadcrumbs_broker_1", "output" ]
+              }
+            }
+          },
+          "eventMappings" : [ {
+            "eventMappingId" : "ckgrvmuquaaaaeetddghhiijaccjefffu",
+            "isConfiguration" : false,
+            "offRowStorageId" : null,
+            "sourceEventApiName" : "sn_breadcrumbs.NOW_BREADCRUMBS#ITEM_CLICKED",
+            "sourceEventCorrelationId" : null,
+            "sourceEventDefinition" : {
+              "apiName" : "sn_breadcrumbs.NOW_BREADCRUMBS#ITEM_CLICKED",
+              "id" : null,
+              "type" : "UXEVENT"
+            },
+            "sourceEventSysId" : null,
+            "targets" : [ {
+              "broker" : null,
+              "clientScript" : {
+                "sysId" : "7049ab1f5715711029b1314463505caf"
+              },
+              "conditional" : null,
+              "declarativeAction" : null,
+              "event" : null,
+              "operation" : null,
+              "targetId" : "ckgrvmuquaaaaeeuddghhiihfjjrrwrii",
+              "type" : "CLIENT_SCRIPT"
+            } ]
+          } ],
+          "slot" : null,
+          "definition" : {
+            "id" : "9c2e48402c6c25d281faeb20637f6106",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : null,
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : ""
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : {
+            "margin-left" : "var(--now-static-space--xl)",
+            "margin-bottom" : "var(--now-static-space--xl)"
+          }
+        }, {
+          "elementId" : "heading_1",
+          "elementLabel" : "Heading 1",
+          "propertyValues" : {
+            "hasNoMargin" : {
+              "type" : "JSON_LITERAL",
+              "value" : true
+            },
+            "level" : {
+              "type" : "JSON_LITERAL",
+              "value" : "1"
+            },
+            "variant" : {
+              "type" : "JSON_LITERAL",
+              "value" : "header-primary"
+            },
+            "wontWrap" : {
+              "type" : "JSON_LITERAL",
+              "value" : false
+            },
+            "label" : {
+              "type" : "TRANSLATION_LITERAL",
+              "value" : {
+                "code" : null,
+                "message" : "Settings",
+                "comment" : ""
+              }
+            }
+          },
+          "eventMappings" : [ ],
+          "slot" : null,
+          "definition" : {
+            "id" : "1f6e0643eca7a637e36bd7833549ec9e",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : null,
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : ""
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : {
+            "margin-left" : "var(--now-static-space--xl)"
+          }
+        }, {
+          "elementId" : "container_2",
+          "elementLabel" : "Container 2",
+          "propertyValues" : {
+            "ariaRegionHeadingLevel" : {
+              "type" : "JSON_LITERAL",
+              "value" : "1"
+            },
+            "hideEmptyStateUi" : {
+              "type" : "JSON_LITERAL",
+              "value" : true
+            },
+            "ariaRegionName" : {
+              "type" : "TRANSLATION_LITERAL",
+              "value" : {
+                "code" : null,
+                "message" : "",
+                "comment" : ""
+              }
+            },
+            "includeAriaHeading" : {
+              "type" : "JSON_LITERAL",
+              "value" : false
+            },
+            "type" : {
+              "type" : "JSON_LITERAL",
+              "value" : "section"
+            },
+            "ariaRole" : {
+              "type" : "JSON_LITERAL",
+              "value" : ""
+            }
+          },
+          "eventMappings" : [ ],
+          "slot" : null,
+          "definition" : {
+            "id" : "d356d14b6e293a3020a244b63d278d8f",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : {
+            "composition" : [ {
+              "elementId" : "tab_set_1",
+              "elementLabel" : "Tab Set 1",
+              "propertyValues" : {
+                "tabStyles" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : ".tabset-tabs{\n\n}\n.tabset-container{\n\n}"
+                },
+                "fixedWidth" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : null
+                },
+                "defaultRoute" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "cketv4fts00003g8yxah9e3hs"
+                },
+                "selectedTabIndex" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : null
+                },
+                "spaceBetweenItems" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "none"
+                },
+                "dynamicTabData" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : ""
+                },
+                "enableCollapsing" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : false
+                },
+                "initiallyCollapsed" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : false
+                },
+                "viewportConfiguration" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : {
+                    "validation" : {
+                      "name" : {
+                        "required" : true
+                      },
+                      "order" : {
+                        "required" : false
+                      },
+                      "icon" : {
+                        "required" : false
+                      }
+                    },
+                    "enableDataDrivenTabs" : true
+                  }
+                },
+                "size" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "md"
+                },
+                "showInlinePadding" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : true
+                },
+                "position" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "top"
+                },
+                "maxWidth" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : null
+                },
+                "hideLabel" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : null
+                }
+              },
+              "eventMappings" : [ ],
+              "slot" : null,
+              "definition" : {
+                "id" : "b324da974cef96f2db1d484cfeda4e3e",
+                "type" : "MACROPONENT_VIEWPORT"
+              },
+              "overrides" : null,
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : ""
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : { }
+            } ],
+            "layout" : {
+              "default" : {
+                "children" : null,
+                "isInline" : null,
+                "items" : [{"rules":{},"styles":{"grid-area":"main"},"element_id":"tab_set_1"}],
+                "root" : null,
+                "rules" : null,
+                "styles" : {"grid-template-rows":"auto","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},
+                "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                "type" : "grid"
+              },
+              "version" : "3.0.0"
+            }
+          },
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : ""
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : {
+            "background-color" : "rgb(var(--now-color--neutral-0))",
+            "padding" : "var(--now-static-space--xl)",
+            "border-radius" : "2px",
+            "margin-top" : "var(--now-static-space--xxl)"
+          }
+        } ],
+        "layout" : {
+          "default" : {
+            "children" : null,
+            "isInline" : null,
+            "items" : [{"rules":{},"styles":{},"element_id":"breadcrumbs_1"},{"rules":{},"styles":{},"element_id":"heading_1"},{"rules":{},"styles":{},"element_id":"container_2"}],
+            "root" : null,
+            "rules" : {},
+            "styles" : {"height":"100%","flex-direction":"column","display":"flex"},
+            "templateId" : null,
+            "type" : "flex"
+          },
+          "version" : "3.0.0"
+        }
+      },
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : null
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ ],
+      "styles" : {
+        "height" : "100%"
+      }
+    } ],
+    "layout" : {
+      "default" : {
+        "children" : null,
+        "isInline" : null,
+        "items" : [{"rules":{},"styles":{"grid-area":"main"},"element_id":"container_1_Main"}],
+        "root" : null,
+        "rules" : null,
+        "styles" : {"margin":"var(--now-static-space--xxl) auto 4rem auto","grid-template-rows":"auto","grid-template-columns":"1fr 4fr 1fr","grid-template-areas":"\"sidebar1 main sidebar2\"","grid-gap":"0px var(--now-static-space--xxl)","max-width":"90rem"},
+        "templateId" : "f5ff467615f39010f87783c65626d829",
+        "type" : "grid"
+      },
+      "version" : "3.0.0"
+    }
+  },
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ {
+  "definition" : {
+    "id" : "3849ab1f781571107535af1c50b1f7b5",
+    "type" : "TRANSFORM"
+  },
+  "dependencies" : { },
+  "elementId" : "breadcrumbs_broker_1",
+  "elementLabel" : "Breadcrumbs broker 1",
+  "eventMappings" : [ ],
+  "inputValues" : {
+    "displayValue" : {
+      "type" : "JSON_LITERAL",
+      "value" : "Settings"
+    }
+  },
+  "readEvaluationMode" : "EAGER"
+} ]</data>
+        <description/>
+        <dispatched_events>f049ab1f90157110911fd74c60b98aa9</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"rules":{},"styles":{"grid-area":"wrapper"},"element_id":"container_1"}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"background-color":"rgb(var(--now-avatar--background-color))","grid-template-rows":"minmax(400px, auto)","grid-template-columns":"1fr","grid-template-areas":"\"wrapper\"","grid-gap":"0px","height":"100%","margin":"var(--now-static-space--lg)","margin-top":"var(--now-static-space--xs)","margin-right":"var(--now-static-space--3xl)","margin-left":"var(--now-static-space--3xl)","padding":"var(--now-static-space--lg)","background":"rgb(var(--now-color_surface--brand-1))","border-color":"rgb(var(--now-color--secondary-2))","border-width":"var(--now-static-space--lg)","border-style":"double"},
+    "templateId" : "b09f467615f39010f87783c65626d825",
+    "type" : "grid"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Settings Page</name>
+        <output_prop_mapping/>
+        <props>[ ]</props>
+        <required_translations>[ {
+  "message" : "Settings",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-21 06:54:28</sys_created_on>
+        <sys_id>3049ab1f8f1571100912cf7ea47fc5b2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Settings Page</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_macroponent_3049ab1f8f1571100912cf7ea47fc5b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-09 08:13:37</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=3049ab1f8f1571100912cf7ea47fc5b2"/>
+</record_update>

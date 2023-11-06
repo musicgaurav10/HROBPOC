@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Reference Information">a3e43c7b0759b110151cfc018c1ed0e2</catalog_item>
+        <catalog_variable>IO:2839b0b30799b110151cfc018c1ed00f</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 08:09:38</sys_created_on>
+        <sys_id>bdd0acb40729b510151cfc018c1ed016</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>refernences</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_bdd0acb40729b510151cfc018c1ed016</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 08:09:38</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Always make 'refernences' visible &amp; editable ">8da0e4b40729b510151cfc018c1ed05c</ui_policy>
+        <variable>refernences</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

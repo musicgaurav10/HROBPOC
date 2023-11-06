@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="template" table="x_1106637_hrob_poc_offerletter_table">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>template</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;style&gt;
+    .heading{
+        text-align: center;
+        font: bold;
+        text-decoration: underline;
+        line-height: 6rem;
+    }
+    .subHeading{
+        /* text-align: center; */
+        font: bold;
+        text-decoration: underline;
+        line-height: 6rem;
+    }
+    .container{
+        width: 80%;
+        margin: auto;
+    }
+    .lineHeight{
+        line-height: 3rem;
+    }
+&lt;/style&gt;
+&lt;body&gt;
+    &lt;h1 class="heading"&gt;Appoinement Letter&lt;/h1&gt;
+    &lt;div class="container"&gt;
+        &lt;div&gt;
+        &lt;p&gt;&lt;b&gt;{Ashley R Ranoa}&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;{655 ALVERN ST} {CA} {Oakland} {10001} {United States of America}&lt;/p&gt;
+        &lt;br&gt;
+        &lt;br&gt;
+        &lt;p class="lineHeight"&gt;Dear &lt;b&gt;{Ashley R Ranoa}&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;we are delighted to offer you the position of &lt;b&gt;{Manager}&lt;/b&gt; at Persistent Systems.&lt;/p&gt;
+        &lt;p&gt;The terms and conditions of your employment are outlined as below.&lt;/p&gt;
+        &lt;br&gt;
+        &lt;br&gt;
+        &lt;h3 class="lineHeight"&gt;&lt;b&gt;DATE OF JOINING AND REPORTING&lt;/b&gt;&lt;/h3&gt;
+        &lt;p&gt;&lt;b&gt;1. Start date : {5/1/2021}&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;2. Location:&lt;/b&gt; Your initial work location will be &lt;b&gt;{NewJersey}&lt;/b&gt;&lt;/p&gt;
+        &lt;br&gt;
+        &lt;h3 class="subHeading"&gt;&lt;b&gt;REMUNERATION&lt;/b&gt;&lt;/h3&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    
+&lt;/body&gt;
+&lt;/html&gt;</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>template</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="HTML">html</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1106637_hrob_poc_offerletter_table</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-11 10:26:06</sys_created_on>
+        <sys_name>template</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_dictionary_x_1106637_hrob_poc_offerletter_table_template</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-11 11:19:44</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>

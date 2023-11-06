@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>80818ab307b57110151cfc018c1ed040</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>hrob_poc_login</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>HROB_HR</sys_created_by>
+        <sys_created_on>2023-10-17 09:02:51</sys_created_on>
+        <sys_id>c1cf3dbb07757110151cfc018c1ed066</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>HROB_POC_Login</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_page_registry_c1cf3dbb07757110151cfc018c1ed066</sys_update_name>
+        <sys_updated_by>HROB_HR</sys_updated_by>
+        <sys_updated_on>2023-10-17 09:11:13</sys_updated_on>
+        <title>HROB_POC_Login</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_page_registry_c1cf3dbb07757110151cfc018c1ed066</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>80818ab307b57110151cfc018c1ed040</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>hrob_poc_login</path><root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>HROB_HR</sys_created_by><sys_created_on>2023-10-17 09:02:51</sys_created_on><sys_id>c1cf3dbb07757110151cfc018c1ed066</sys_id><sys_mod_count>2</sys_mod_count><sys_name>HROB_POC_Login</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_page_registry_c1cf3dbb07757110151cfc018c1ed066</sys_update_name><sys_updated_by>HROB_HR</sys_updated_by><sys_updated_on>2023-10-17 09:11:13</sys_updated_on><title>HROB_POC_Login</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1362831020</payload_hash>
+        <record_name>HROB_POC_Login</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>HROB_HR</sys_created_by>
+        <sys_created_on>2023-10-17 09:11:13</sys_created_on>
+        <sys_id>96e1823707b57110151cfc018c1ed05f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b3ce74f100000001</sys_recorded_at>
+        <sys_updated_by>HROB_HR</sys_updated_by>
+        <sys_updated_on>2023-10-17 09:11:13</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>5ee18237eeb571100439710ca990035e</update_guid>
+        <update_guid_history>5ee18237eeb571100439710ca990035e:1362831020,76018e73a6b5711058ee14a3f7c3f43d:-214999028,ebff31ff0075711090cac64e7096b0b3:2001822456</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>HROB_RM</sys_created_by>
+        <sys_created_on>2023-10-17 09:24:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>00f920cef62b4b20b50dd60047504e10</sys_id>
+        <sys_metadata>c1cf3dbb07757110151cfc018c1ed066</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HROB_POC_Login</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_c1cf3dbb07757110151cfc018c1ed066</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_c1cf3dbb07757110151cfc018c1ed066">96e1823707b57110151cfc018c1ed05f</sys_update_version>
+        <sys_updated_by>HROB_RM</sys_updated_by>
+        <sys_updated_on>2023-10-17 09:24:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

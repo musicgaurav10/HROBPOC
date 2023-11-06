@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f854fb5907703110151cfc018c1ed0a0" label="Previous Employee Details" max_length="40" name="x_1106637_hrob_poc_previous_employee_details" text_index="true" type="collection">
+        <element label="Actual Bonus Awarded Last Year:" max_length="40" name="actual_bonus_awarded_last_year" type="integer"/>
+        <element label="City:" max_length="40" name="city" type="string"/>
+        <element label="Company:" max_length="40" name="company" type="string"/>
+        <element choice="1" default="India" label="Country:" max_length="40" name="country" type="html">
+            <choice>
+                <element inactive_on_update="false" label="India" sequence="0" value="India"/>
+                <element inactive_on_update="false" label="Australia" sequence="1" value="Australia"/>
+                <element inactive_on_update="false" label="US" sequence="2" value="US"/>
+                <element inactive_on_update="false" label="UK" sequence="3" value="UK"/>
+                <element inactive_on_update="false" label="Canada" sequence="4" value="Canada"/>
+                <element inactive_on_update="false" label="Japan" sequence="5" value="Japan"/>
+            </choice>
+        </element>
+        <element label="Employment End Date:" max_length="40" name="employment_end_date" type="glide_date"/>
+        <element label="Employment Start Date:" max_length="40" name="employment_start_date" type="glide_date"/>
+        <element label="Ending Base Salary:" max_length="40" name="ending_base_salary" type="integer"/>
+        <element label="Ending Job Title:" max_length="40" name="ending_job_title" type="string"/>
+        <element label="Ending Target Bonus:" max_length="40" name="ending_target_bonus" type="integer"/>
+        <element label="Phone:" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="Reason for Leaving:" max_length="40" name="reason_for_leaving" type="string"/>
+        <element label="Starting Base Salary:" max_length="40" name="starting_base_salary" type="integer"/>
+        <element label="Starting Job Title:" max_length="40" name="starting_job_title" type="string"/>
+        <element label="Starting Target Bonus:" max_length="40" name="starting_target_bonus" type="integer"/>
+        <element label="State:" max_length="40" name="state" type="string"/>
+        <element label="Street Address:" max_length="40" name="street_address" type="string"/>
+        <element label="Supervisor:" max_length="40" name="supervisor" type="string"/>
+        <element label="Zip Code:" max_length="40" name="zip_code" type="integer"/>
+    </element>
+</database>

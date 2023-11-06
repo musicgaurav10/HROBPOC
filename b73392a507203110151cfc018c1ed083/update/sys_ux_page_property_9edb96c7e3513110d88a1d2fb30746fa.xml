@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for HROB-POC1 generated</description>
+        <name>view</name>
+        <page display_value="HROB-POC1">12db96c70151311091a1bb817dca91eb</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-20 06:37:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9edb96c7e3513110d88a1d2fb30746fa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_page_property_9edb96c7e3513110d88a1d2fb30746fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 06:38:19</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1106637_hrob_poc.12db96c70151311091a1bb817dca91eb.root.view</unique_name>
+        <value>Workspace-HROB-POC1-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=9edb96c7e3513110d88a1d2fb30746fa"/>
+</record_update>

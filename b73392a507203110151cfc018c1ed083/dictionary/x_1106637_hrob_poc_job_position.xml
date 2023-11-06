@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0a990df907f03110151cfc018c1ed0d7" label="Job Position" max_length="40" name="x_1106637_hrob_poc_job_position" text_index="true" type="collection">
+        <element label="Base Salary" max_length="40" name="base_salary" type="integer"/>
+        <element label="Bonus(%)" max_length="40" name="bonus" type="integer"/>
+        <element choice="1" label="Department" max_length="40" name="department" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Administrative" sequence="0" value="Administrative"/>
+                <element inactive_on_update="false" label="Customer Service" sequence="1" value="Customer Service"/>
+                <element inactive_on_update="false" label="Finance" sequence="2" value="Finance"/>
+                <element inactive_on_update="false" label="HR" sequence="3" value="HR"/>
+                <element inactive_on_update="false" label="Information Technology" sequence="4" value="Information Technology"/>
+                <element inactive_on_update="false" label="Sales" sequence="5" value="Sales"/>
+            </choice>
+        </element>
+        <element label="Hiring Manager" max_length="40" name="hiring_manager" type="string"/>
+        <element label="Joining Date" max_length="40" name="joining_date" type="glide_date"/>
+        <element choice="1" label="Location" max_length="40" name="location" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Benguluru, India" sequence="0" value="Benguluru, India"/>
+                <element inactive_on_update="false" label="Goa, India" sequence="1" value="Goa, India"/>
+                <element inactive_on_update="false" label="Hyderabad, India" sequence="2" value="Hyderabad, India"/>
+                <element inactive_on_update="false" label="Kolkata, India" sequence="3" value="Kolkata, India"/>
+                <element inactive_on_update="false" label="Pune, India" sequence="4" value="Pune, India"/>
+                <element inactive_on_update="false" label="Santa Clara, United States" sequence="5" value="Santa Clara, United States"/>
+                <element inactive_on_update="false" label="Dublin, United States" sequence="6" value="Dublin, United States"/>
+                <element inactive_on_update="false" label="Bellevue, United States" sequence="7" value="Bellevue, United States"/>
+                <element inactive_on_update="false" label="Bridgewater Township, United States" sequence="8" value="Bridgewater Township, United States"/>
+            </choice>
+        </element>
+        <element choice="1" label="Position Name" max_length="40" name="position_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Domain Engineer" sequence="0" value="Domain Engineer"/>
+                <element inactive_on_update="false" label="Senior Domain Engineer" sequence="1" value="Senior Domain Engineer"/>
+                <element inactive_on_update="false" label="Software Engineer" sequence="2" value="Software Engineer"/>
+                <element inactive_on_update="false" label="Senior Software Enginner" sequence="3" value="Senior Software Enginner"/>
+                <element inactive_on_update="false" label="Engineering Lead" sequence="4" value="Engineering Lead"/>
+                <element inactive_on_update="false" label="Senior Engineering Lead" sequence="5" value="Senior Engineering Lead"/>
+                <element inactive_on_update="false" label="Manager" sequence="6" value="Manager"/>
+                <element inactive_on_update="false" label="Senior Manager" sequence="7" value="Senior Manager"/>
+            </choice>
+        </element>
+        <element label="Recruitment Manager" max_length="40" name="recruitment_manager" type="string"/>
+        <element label="Stock Options" max_length="40" name="stack_options" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>2900</order>
+        <search_context_config display_value="HROB-POC Login - Workspace Search">4d1ff57bf3757110dc74e3c2493f4062</search_context_config>
+        <source display_value="HROB-POC Login - x_1106637_hrob_poc_rm_data">132f31bb07757110151cfc018c1ed043</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>HROB_HR</sys_created_by>
+        <sys_created_on>2023-10-17 08:59:17</sys_created_on>
+        <sys_id>272f31bb07757110151cfc018c1ed052</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_272f31bb07757110151cfc018c1ed052</sys_update_name>
+        <sys_updated_by>HROB_HR</sys_updated_by>
+        <sys_updated_on>2023-10-17 08:59:17</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

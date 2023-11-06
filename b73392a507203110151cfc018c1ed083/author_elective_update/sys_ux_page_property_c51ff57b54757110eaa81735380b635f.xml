@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="">811ff57bf5757110f5fdc87d9e6ce45e</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>HROB_HR</sys_created_by>
+        <sys_created_on>2023-10-17 08:58:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c51ff57b54757110eaa81735380b635f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_page_property_c51ff57b54757110eaa81735380b635f</sys_update_name>
+        <sys_updated_by>HROB_HR</sys_updated_by>
+        <sys_updated_on>2023-10-17 08:58:53</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1106637_hrob_poc.811ff57bf5757110f5fdc87d9e6ce45e.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_page_property_c51ff57b54757110eaa81735380b635f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_notification_uiRoute</name><page display_value="">811ff57bf5757110f5fdc87d9e6ce45e</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>HROB_HR</sys_created_by><sys_created_on>2023-10-17 08:58:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>c51ff57b54757110eaa81735380b635f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_notification_uiRoute</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_page_property_c51ff57b54757110eaa81735380b635f</sys_update_name><sys_updated_by>HROB_HR</sys_updated_by><sys_updated_on>2023-10-17 08:58:53</sys_updated_on><type>string</type><unique_name>x_1106637_hrob_poc.811ff57bf5757110f5fdc87d9e6ce45e.root.chrome_notification_uiRoute</unique_name><value>cb1af195872023002941b53046cb0b4e</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1231641605</payload_hash>
+        <record_name>chrome_notification_uiRoute</record_name>
+        <reverted_from/>
+        <source>7d81e6a307103110151cfc018c1ed001</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-08-03 03:16:41</sys_created_on>
+        <sys_id>5a0382f707b57110151cfc018c1ed09f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>189b965c1a80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>1a0382f706b571104efed360ea4e239f</update_guid>
+        <update_guid_history>1a0382f706b571104efed360ea4e239f:1231641605</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>HROB_RM</sys_created_by>
+        <sys_created_on>2023-10-17 09:16:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0a0a0e796acf4eb08895031a38ae7c40</sys_id>
+        <sys_metadata>c51ff57b54757110eaa81735380b635f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_c51ff57b54757110eaa81735380b635f</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_c51ff57b54757110eaa81735380b635f">5a0382f707b57110151cfc018c1ed09f</sys_update_version>
+        <sys_updated_by>HROB_RM</sys_updated_by>
+        <sys_updated_on>2023-10-17 09:16:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

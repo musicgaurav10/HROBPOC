@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5bfcf7c407b47110151cfc018c1ed033" label="Testing table" max_length="40" name="x_1106637_hrob_poc_testing_table" text_index="true" type="collection">
+        <element label="dob" max_length="40" name="dob" type="glide_date"/>
+        <element label="FirstName" max_length="40" name="firstname" type="string"/>
+        <element label="LastName" max_length="40" name="lastname" type="string"/>
+        <element label="PhoneNumber" max_length="40" name="phonenumber" type="phone_number_e164"/>
+    </element>
+</database>

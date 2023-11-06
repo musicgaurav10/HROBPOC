@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1106637_hrob_poc_candidate_profile_details">first_nameSAMEASfirst_name^EQ<item endquery="false" field="first_name" goto="false" newquery="false" operator="SAMEAS" or="false" value="first_name"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <group/>
+        <name>RPA Search</name>
+        <roles/>
+        <source_table>x_1106637_hrob_poc_candidate_profile_details</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-22 10:43:53</sys_created_on>
+        <sys_id>15ad3df907f43110151cfc018c1ed082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RPA Search</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_search_source_15ad3df907f43110151cfc018c1ed082</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-22 10:43:53</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=15ad3df907f43110151cfc018c1ed082"/>
+</record_update>

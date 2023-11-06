@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="candidate_id" label="Candidate Id" language="en" table="x_1106637_hrob_poc_rap_allocation_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>candidate_id</element>
+            <help/>
+            <hint/>
+            <label>Candidate Id</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_rap_allocation_request</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-04 12:27:42</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Candidate Id</sys_name>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_documentation_x_1106637_hrob_poc_rap_allocation_request_candidate_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-04 12:27:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

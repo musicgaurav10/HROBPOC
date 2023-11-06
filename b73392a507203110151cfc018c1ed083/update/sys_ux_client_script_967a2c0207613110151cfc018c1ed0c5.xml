@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Complete Reference Verification default">2fab797907f43110151cfc018c1ed021</macroponent>
+        <name>Updat Comment</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+function handler({api, event, helpers, imports}) {
+    let fields = "comment=" + api.state.comment;
+  console.log(api.context.props.sysId);
+  console.log(fields);
+  api.data.update_record_1.execute({
+    table: "x_1106637_hrob_poc_verification_data",
+    recordId : api.context.props.sysId,
+    templateFields: fields,
+    useSetDisplayValue: false
+  });
+}
+]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 06:04:08</sys_created_on>
+        <sys_id>967a2c0207613110151cfc018c1ed0c5</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Updat Comment</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_client_script_967a2c0207613110151cfc018c1ed0c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 06:23:03</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="02a815e107783110151cfc018c1ed099" label="Dashboard Medical verification" max_length="40" name="x_1106637_hrob_poc_dashboard_medical_verification" text_index="true" type="collection">
+        <element label="Name" max_length="70" name="name" type="string"/>
+        <element label="Process" max_length="40" name="process" type="string"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

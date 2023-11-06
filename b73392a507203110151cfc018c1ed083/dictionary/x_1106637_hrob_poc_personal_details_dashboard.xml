@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f440413107f03110151cfc018c1ed0d0" label="Personal Details Dashboard" max_length="40" name="x_1106637_hrob_poc_personal_details_dashboard" text_index="true" type="collection">
+        <element label="CandidateId" max_length="40" name="candidateid" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Process" max_length="40" name="process" type="string"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Start Time" max_length="40" name="start_time" type="glide_date_time" use_dynamic_default="true"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Upload Resume" max_length="40" name="upload_resume" type="file_attachment"/>
+    </element>
+</database>

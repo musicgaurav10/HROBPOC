@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section" section_id="5be2cc2907b03110151cfc018c1ed0b1" sys_domain="global" table="x_1106637_hrob_poc_education_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>college_university</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+            <sys_id>6206082d07b03110151cfc018c1ed0b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street_addres0</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+            <sys_id>6606082d07b03110151cfc018c1ed0b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cit1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+            <sys_id>6a06082d07b03110151cfc018c1ed0b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stat0</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+            <sys_id>6e06082d07b03110151cfc018c1ed0b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>countr0</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+            <sys_id>6206082d07b03110151cfc018c1ed0b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip_cod0</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+            <sys_id>6606082d07b03110151cfc018c1ed0b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+            <sys_id>6a06082d07b03110151cfc018c1ed0b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>did_you_graduat0</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+            <sys_id>6e06082d07b03110151cfc018c1ed0b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cit0</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+            <sys_id>6206082d07b03110151cfc018c1ed0b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section</caption>
+            <header>false</header>
+            <name>x_1106637_hrob_poc_education_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 07:07:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5be2cc2907b03110151cfc018c1ed0b1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1106637_hrob_poc_education_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_ui_section_5be2cc2907b03110151cfc018c1ed0b1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 07:19:59</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ui_section_5be2cc2907b03110151cfc018c1ed0b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section" section_id="5be2cc2907b03110151cfc018c1ed0b1" sys_domain="global" table="x_1106637_hrob_poc_education_details" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>college_university</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:20:54</sys_created_on><sys_id>6206082d07b03110151cfc018c1ed0b2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:20:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>street_addres0</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:20:54</sys_created_on><sys_id>6606082d07b03110151cfc018c1ed0b2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:20:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cit1</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:20:54</sys_created_on><sys_id>6a06082d07b03110151cfc018c1ed0b2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:20:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>stat0</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:20:54</sys_created_on><sys_id>6e06082d07b03110151cfc018c1ed0b2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:20:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>countr0</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:20:54</sys_created_on><sys_id>6206082d07b03110151cfc018c1ed0b3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:20:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>zip_cod0</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:20:54</sys_created_on><sys_id>6606082d07b03110151cfc018c1ed0b3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:20:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:20:54</sys_created_on><sys_id>6a06082d07b03110151cfc018c1ed0b3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:20:54</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>did_you_graduat0</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:20:54</sys_created_on><sys_id>6e06082d07b03110151cfc018c1ed0b3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:20:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cit0</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:20:54</sys_created_on><sys_id>6206082d07b03110151cfc018c1ed0b4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section" display_value="New section" name="x_1106637_hrob_poc_education_details" sys_domain="global" view="Default view">5be2cc2907b03110151cfc018c1ed0b1</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:20:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section</caption><header>false</header><name>x_1106637_hrob_poc_education_details</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 07:07:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5be2cc2907b03110151cfc018c1ed0b1</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1106637_hrob_poc_education_details</sys_name><sys_overrides/><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ui_section_5be2cc2907b03110151cfc018c1ed0b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 07:19:59</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>2050909958</payload_hash>
+        <record_name>Education Details</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 07:20:54</sys_created_on>
+        <sys_id>6606082d07b03110151cfc018c1ed0b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a16f7d1c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 07:20:54</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>6e06082d00b031100c6ff7268f7f1bb5</update_guid>
+        <update_guid_history>6e06082d00b031100c6ff7268f7f1bb5:2050909958,4dd5c02d42b03110019aaf93b16fcee4:577635347,8dd5c02d5bb031104d24d2ddde879d8f:1461048746,96938c6902b03110d0a7db32c5db3727:301940478,8423046957b0311066240df56b596f34:-1759635135,fbe2cc2940b03110531de0b8ca2c6de0:-656770412</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 08:40:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3e5b1102627a445ea23ffab96c602584</sys_id>
+        <sys_metadata>5be2cc2907b03110151cfc018c1ed0b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent display_value="Hrob Poc Education Details">6434375907703110151cfc018c1ed03d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5be2cc2907b03110151cfc018c1ed0b1</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5be2cc2907b03110151cfc018c1ed0b1">6606082d07b03110151cfc018c1ed0b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 08:40:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

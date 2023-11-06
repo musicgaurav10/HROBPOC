@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Candidate Information">0dbc746a07153110151cfc018c1ed0f3</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-18 10:47:03</sys_created_on>
+        <sys_id>dfb149ae07153110151cfc018c1ed0d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Candidate Information</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_dfb149ae07153110151cfc018c1ed0d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-18 10:47:03</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sc_cat_item_catalog_dfb149ae07153110151cfc018c1ed0d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Candidate Information">0dbc746a07153110151cfc018c1ed0f3</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-18 10:47:03</sys_created_on><sys_id>dfb149ae07153110151cfc018c1ed0d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Candidate Information</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sc_cat_item_catalog_dfb149ae07153110151cfc018c1ed0d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-18 10:47:03</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-75528422</payload_hash>
+        <record_name>Service Catalog.Candidate Information</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-18 10:47:03</sys_created_on>
+        <sys_id>dbb149ae07153110151cfc018c1ed0d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aa7e69d740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-18 10:47:03</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>13b149ae151531101ae17b948fb6c9d7</update_guid>
+        <update_guid_history>13b149ae151531101ae17b948fb6c9d7:-75528422</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Candidate Information">2792c5ee07153110151cfc018c1ed094</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-18 10:50:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>00b9ef941f57443480263c12331d5490</sys_id>
+        <sys_metadata>dfb149ae07153110151cfc018c1ed0d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Candidate Information</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent display_value="Personal Details">0dbc746a07153110151cfc018c1ed0f3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_dfb149ae07153110151cfc018c1ed0d4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_dfb149ae07153110151cfc018c1ed0d4">dbb149ae07153110151cfc018c1ed0d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-18 10:50:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

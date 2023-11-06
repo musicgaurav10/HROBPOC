@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>Complete Provision</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 07:10:16</sys_created_on>
+        <sys_id>ce704cdfd760311052525cbc34f8916c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Complete Provision</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_screen_type_ce704cdfd760311052525cbc34f8916c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 10:08:25</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=ce704cdfd760311052525cbc34f8916c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_screen_type_ce704cdfd760311052525cbc34f8916c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Complete Provision</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-14 07:10:16</sys_created_on><sys_id>ce704cdfd760311052525cbc34f8916c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Complete Provision</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_screen_type_ce704cdfd760311052525cbc34f8916c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-14 10:08:25</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=ce704cdfd760311052525cbc34f8916c"/></record_update>]]></payload>
+        <payload_hash>-719521779</payload_hash>
+        <record_name>Complete Provision</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 10:08:25</sys_created_on>
+        <sys_id>9049a45f07243110151cfc018c1ed082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189f384ac460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 10:08:25</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>d849a45f302431105881a1417d4e0b81</update_guid>
+        <update_guid_history>d849a45f302431105881a1417d4e0b81:-719521779,dc49a89b8d2431106a514bfb7a77a87b:-1128572309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 10:09:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>9de9250181514e28ae7bfad5b1e8e971</sys_id>
+        <sys_metadata>ce704cdfd760311052525cbc34f8916c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Complete Provision</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_ce704cdfd760311052525cbc34f8916c</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_ce704cdfd760311052525cbc34f8916c">9049a45f07243110151cfc018c1ed082</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 10:09:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

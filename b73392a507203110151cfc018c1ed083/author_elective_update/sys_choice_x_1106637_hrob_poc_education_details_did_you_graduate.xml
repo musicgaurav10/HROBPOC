@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="did_you_graduate" table="x_1106637_hrob_poc_education_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>did_you_graduate</element>
+            <name>x_1106637_hrob_poc_education_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 06:08:05</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>did_you_graduate</sys_name>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_choice_x_1106637_hrob_poc_education_details_did_you_graduate</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 06:08:05</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>did_you_graduate</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_education_details</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 06:08:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37553bd907703110151cfc018c1ed0c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 06:08:04</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>did_you_graduate</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_education_details</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 06:08:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb553bd907703110151cfc018c1ed0e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 06:08:05</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

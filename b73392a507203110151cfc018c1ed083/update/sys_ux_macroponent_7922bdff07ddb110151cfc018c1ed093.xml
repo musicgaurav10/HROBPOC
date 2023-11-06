@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "collapsible_container_1",
+  "elementLabel" : "Collapsible Container 1",
+  "propertyValues" : {
+    "collapsed" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "ariaRegionHeadingLevel" : {
+      "type" : "JSON_LITERAL",
+      "value" : "1"
+    },
+    "canCollapse" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "hideEmptyStateUi" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "ariaRegionName" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "",
+        "comment" : ""
+      }
+    },
+    "includeAriaHeading" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "PERSONAL DETAILS",
+        "comment" : ""
+      }
+    },
+    "bare" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "d11fecf1d5fc9b50f799c3d9acb56276",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "catalog_item_2",
+      "elementLabel" : "Catalog Item 2",
+      "propertyValues" : {
+        "showRequestForHeader" : {
+          "type" : "JSON_LITERAL",
+          "value" : "true"
+        },
+        "propagateNotifications" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "sysId" : {
+          "type" : "JSON_LITERAL",
+          "value" : "0dbc746a07153110151cfc018c1ed0f3"
+        },
+        "label" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "",
+            "comment" : ""
+          }
+        },
+        "headingOnlyVisibleToScreenReaders" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "interceptNotifications" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "hideOptionsLabel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "false"
+        },
+        "referrer" : {
+          "type" : "JSON_LITERAL",
+          "value" : "default"
+        },
+        "submitPosition" : {
+          "type" : "JSON_LITERAL",
+          "value" : "right"
+        },
+        "headerLevel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "1"
+        },
+        "engagementChannel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "default"
+        },
+        "requestedForId" : {
+          "type" : "JSON_LITERAL",
+          "value" : null
+        },
+        "bare" : {
+          "type" : "JSON_LITERAL",
+          "value" : true
+        },
+        "scrollable" : {
+          "type" : "JSON_LITERAL",
+          "value" : "y"
+        }
+      },
+      "eventMappings" : [ {
+        "eventMappingId" : "clnaaddixcraaeefnddffhhwggfjjurjiik",
+        "isConfiguration" : false,
+        "offRowStorageId" : null,
+        "sourceEventApiName" : "sn_sc_record_form.SN_CATALOG_FORM_CONNECTED#REQUEST_GENERATED",
+        "sourceEventCorrelationId" : null,
+        "sourceEventDefinition" : {
+          "apiName" : "sn_sc_record_form.SN_CATALOG_FORM_CONNECTED#REQUEST_GENERATED",
+          "id" : null,
+          "type" : "UXEVENT"
+        },
+        "sourceEventSysId" : null,
+        "targets" : [ {
+          "broker" : null,
+          "clientScript" : null,
+          "conditional" : null,
+          "declarativeAction" : null,
+          "event" : null,
+          "operation" : {
+            "dataBrokerId" : "f710351f0f5310101527008c07767efb",
+            "operationName" : "REFRESH",
+            "parentResourceId" : "fetch_the_content_url_for_catalog_builder_homepage_1",
+            "payload" : {
+              "type" : "JSON_LITERAL",
+              "value" : { }
+            }
+          },
+          "targetId" : "clnaaddixcraaeefoddffhhwmbirgggnd",
+          "type" : "DATABROKER_OP"
+        } ]
+      } ],
+      "slot" : null,
+      "definition" : {
+        "id" : "afeef20635001010f877265d86f080df",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null,
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : null
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ ],
+      "styles" : { }
+    } ],
+    "layout" : {
+      "default" : {
+        "children" : null,
+        "isInline" : null,
+        "items" : [{"element_id":"catalog_item_2","styles":{"background":"rgb(var(--now-color_surface--brand-1))"}}],
+        "root" : null,
+        "rules" : null,
+        "styles" : {"flex-direction":"column"},
+        "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+        "type" : "flex"
+      },
+      "version" : "3.0.0"
+    }
+  },
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : {
+    "width" : "100%"
+  }
+}, {
+  "elementId" : "collapsible_container_2",
+  "elementLabel" : "Collapsible Container 2",
+  "propertyValues" : {
+    "collapsed" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "ariaRegionHeadingLevel" : {
+      "type" : "JSON_LITERAL",
+      "value" : "1"
+    },
+    "canCollapse" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "hideEmptyStateUi" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "ariaRegionName" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "",
+        "comment" : ""
+      }
+    },
+    "includeAriaHeading" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "EDUCATION DETAILS",
+        "comment" : ""
+      }
+    },
+    "bare" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "d11fecf1d5fc9b50f799c3d9acb56276",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "catalog_item_1",
+      "elementLabel" : "Catalog Item 1",
+      "propertyValues" : {
+        "showRequestForHeader" : {
+          "type" : "JSON_LITERAL",
+          "value" : "true"
+        },
+        "propagateNotifications" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "sysId" : {
+          "type" : "JSON_LITERAL",
+          "value" : null
+        },
+        "label" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "",
+            "comment" : ""
+          }
+        },
+        "headingOnlyVisibleToScreenReaders" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "interceptNotifications" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "hideOptionsLabel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "false"
+        },
+        "referrer" : {
+          "type" : "JSON_LITERAL",
+          "value" : "default"
+        },
+        "submitPosition" : {
+          "type" : "JSON_LITERAL",
+          "value" : "right"
+        },
+        "headerLevel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "1"
+        },
+        "engagementChannel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "default"
+        },
+        "requestedForId" : {
+          "type" : "JSON_LITERAL",
+          "value" : null
+        },
+        "bare" : {
+          "type" : "JSON_LITERAL",
+          "value" : true
+        },
+        "scrollable" : {
+          "type" : "JSON_LITERAL",
+          "value" : "y"
+        }
+      },
+      "eventMappings" : [ ],
+      "slot" : null,
+      "definition" : {
+        "id" : "afeef20635001010f877265d86f080df",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null,
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : null
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ ],
+      "styles" : { }
+    } ],
+    "layout" : {
+      "default" : {
+        "children" : null,
+        "isInline" : null,
+        "items" : [{"element_id":"catalog_item_1","styles":{}}],
+        "root" : null,
+        "rules" : null,
+        "styles" : {"flex-direction":"column"},
+        "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+        "type" : "flex"
+      },
+      "version" : "3.0.0"
+    }
+  },
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : {
+    "width" : "100%"
+  }
+}, {
+  "elementId" : "text_link_1",
+  "elementLabel" : "Text link 1",
+  "propertyValues" : {
+    "opensWindow" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "download" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "underlined" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "variant" : {
+      "type" : "JSON_LITERAL",
+      "value" : "secondary"
+    },
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "SAVE DRAFT",
+        "comment" : ""
+      }
+    },
+    "href" : {
+      "type" : "JSON_LITERAL",
+      "value" : "https://www.servicenow.com/"
+    },
+    "configAria" : {
+      "type" : "MAP_CONTAINER",
+      "container" : {
+        "aria-label" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "Accessible Label",
+            "comment" : ""
+          }
+        }
+      }
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "abe7db0526ec8705a0eff03521febfa3",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "rich_text_1",
+  "elementLabel" : "Rich text 1",
+  "propertyValues" : {
+    "html" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "&lt;p&gt;&lt;span style=\"font-size: 24pt; color: #ffffff; background-color: #1650b6;\"&gt;&lt;strong&gt;&lt;em&gt;&lt;span style=\"text-decoration: underline;\"&gt;REVIEW EMPLOYEE DETAILS&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+        "comment" : ""
+      }
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "2d56f06d55f46bbd4e79b5e624beb940",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ {
+  "definition" : {
+    "id" : "f710351f0f5310101527008c07767efb",
+    "type" : "TRANSFORM"
+  },
+  "dependencies" : { },
+  "elementId" : "fetch_the_content_url_for_catalog_builder_homepage_1",
+  "elementLabel" : "Fetch the content url for catalog builder homepage 1",
+  "eventMappings" : [ {
+    "eventMappingId" : "clnaaddcggcctaaccjjoddffhhwdiromyuu",
+    "isConfiguration" : false,
+    "offRowStorageId" : null,
+    "sourceEventApiName" : "sn_uxf.DATA_FETCH_INITIATED",
+    "sourceEventCorrelationId" : null,
+    "sourceEventDefinition" : {
+      "apiName" : "sn_uxf.DATA_FETCH_INITIATED",
+      "id" : null,
+      "type" : "UXEVENT"
+    },
+    "sourceEventSysId" : null,
+    "targets" : [ {
+      "broker" : null,
+      "clientScript" : null,
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : null,
+      "operation" : {
+        "dataBrokerId" : "f710351f0f5310101527008c07767efb",
+        "operationName" : "REFRESH",
+        "parentResourceId" : "fetch_the_content_url_for_catalog_builder_homepage_1",
+        "payload" : {
+          "type" : "JSON_LITERAL",
+          "value" : { }
+        }
+      },
+      "targetId" : "clnaaddcggcctaaccjjpddffhhwggkccbdvffi",
+      "type" : "DATABROKER_OP"
+    } ]
+  } ],
+  "inputValues" : { },
+  "readEvaluationMode" : "EAGER"
+} ]</data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"element_id":"text_link_1","styles":{"margin":"var(--now-static-space--lg)"}},{"element_id":"rich_text_1","styles":{"background":"#074EB9","align-self":"center"}},{"element_id":"collapsible_container_1","styles":{}},{"element_id":"collapsible_container_2","styles":{}}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"flex-direction":"column","margin":"var(--now-static-space--lg)","margin-right":"var(--now-static-space--3xl)","margin-left":"var(--now-static-space--3xl)","border-color":"rgb(var(--now-color--secondary-2))","border-width":"var(--now-static-space--lg)","border-style":"double"},
+    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+    "type" : "flex"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>review page default</name>
+        <output_prop_mapping/>
+        <props>[ ]</props>
+        <required_translations>[ {
+  "message" : "&lt;p&gt;&lt;span style=\"font-size: 24pt; color: #ffffff; background-color: #1650b6;\"&gt;&lt;strong&gt;&lt;em&gt;&lt;span style=\"text-decoration: underline;\"&gt;REVIEW EMPLOYEE DETAILS&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+  "comment" : ""
+}, {
+  "message" : "Accessible Label",
+  "comment" : ""
+}, {
+  "message" : "EDUCATION DETAILS",
+  "comment" : ""
+}, {
+  "message" : "PERSONAL DETAILS",
+  "comment" : ""
+}, {
+  "message" : "SAVE DRAFT",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 11:30:59</sys_created_on>
+        <sys_id>7922bdff07ddb110151cfc018c1ed093</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>review page default</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_macroponent_7922bdff07ddb110151cfc018c1ed093</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 09:43:32</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=7922bdff07ddb110151cfc018c1ed093"/>
+</record_update>

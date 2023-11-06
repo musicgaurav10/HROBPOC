@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Location to display the ribbon</description>
+        <name>ribbonLocation</name>
+        <page display_value="HROB-POC HR">02704cdf6660311006519d45cdeb926c</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 07:10:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>06704cdff3603110ca3c73e1bb355670</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_page_property_06704cdff3603110ca3c73e1bb355670</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 07:10:15</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1106637_hrob_poc.02704cdf6660311006519d45cdeb926c.root.ribbonLocation</unique_name>
+        <value>sidebar</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_page_property_06704cdff3603110ca3c73e1bb355670</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Location to display the ribbon</description><name>ribbonLocation</name><page display_value="HROB-POC HR">02704cdf6660311006519d45cdeb926c</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-14 07:10:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>06704cdff3603110ca3c73e1bb355670</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ribbonLocation</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_page_property_06704cdff3603110ca3c73e1bb355670</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-14 07:10:15</sys_updated_on><type>string</type><unique_name>x_1106637_hrob_poc.02704cdf6660311006519d45cdeb926c.root.ribbonLocation</unique_name><value>sidebar</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>618667523</payload_hash>
+        <record_name>ribbonLocation</record_name>
+        <reverted_from/>
+        <source>7d81e6a307103110151cfc018c1ed001</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-08-03 03:16:41</sys_created_on>
+        <sys_id>ac649a7f07f57110151cfc018c1ed08b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>189b965c1a80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>6c649a7f2cf571104293e25655159a8b</update_guid>
+        <update_guid_history>6c649a7f2cf571104293e25655159a8b:618667523</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 10:31:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>297860fdfe0847e68845f528b5053ef9</sys_id>
+        <sys_metadata>06704cdff3603110ca3c73e1bb355670</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_06704cdff3603110ca3c73e1bb355670</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_06704cdff3603110ca3c73e1bb355670">ac649a7f07f57110151cfc018c1ed08b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 10:31:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

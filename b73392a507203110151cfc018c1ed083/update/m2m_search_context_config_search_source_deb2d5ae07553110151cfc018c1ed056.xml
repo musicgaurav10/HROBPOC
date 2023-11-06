@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>800</order>
+        <search_context_config display_value="HROB-Demo - Workspace Search">a5a251ae72553110d868bc10b19f4d9a</search_context_config>
+        <source display_value="HROB-Demo - x_1106637_hrob_poc_employee_full_detai">4eb2d5ae07553110151cfc018c1ed021</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-18 12:01:15</sys_created_on>
+        <sys_id>deb2d5ae07553110151cfc018c1ed056</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_deb2d5ae07553110151cfc018c1ed056</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-18 12:01:15</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

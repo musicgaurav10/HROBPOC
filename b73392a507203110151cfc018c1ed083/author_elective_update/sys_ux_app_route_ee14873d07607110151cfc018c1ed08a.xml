@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Employee Onboarding">95c0a2a107603110151cfc018c1ed0b8</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Education Details</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>education-details</route_type>
+        <screen_type display_value="Education Details">5e14433d07607110151cfc018c1ed0c0</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 05:34:04</sys_created_on>
+        <sys_id>ee14873d07607110151cfc018c1ed08a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Education Details</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_app_route_ee14873d07607110151cfc018c1ed08a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 05:34:04</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=ee14873d07607110151cfc018c1ed08a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_app_route_ee14873d07607110151cfc018c1ed08a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Employee Onboarding">95c0a2a107603110151cfc018c1ed0b8</app_config><description/><extension_point/><fields/><icon/><name>Education Details</name><optional_parameters/><order>0</order><parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>education-details</route_type><screen_type display_value="Education Details">5e14433d07607110151cfc018c1ed0c0</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-10 05:34:04</sys_created_on><sys_id>ee14873d07607110151cfc018c1ed08a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Education Details</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_app_route_ee14873d07607110151cfc018c1ed08a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-10 05:34:04</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=ee14873d07607110151cfc018c1ed08a"/></record_update>]]></payload>
+        <payload_hash>1205888221</payload_hash>
+        <record_name>Education Details</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 05:34:04</sys_created_on>
+        <sys_id>2614873d07607110151cfc018c1ed08d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189ddf010bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 05:34:04</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>6e14873d0d6071107583ce535e1eff8c</update_guid>
+        <update_guid_history>6e14873d0d6071107583ce535e1eff8c:1205888221</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-11 09:08:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>c316e9ee60b14fb6a9df388e81669091</sys_id>
+        <sys_metadata>ee14873d07607110151cfc018c1ed08a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Education Details</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_ee14873d07607110151cfc018c1ed08a</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_ee14873d07607110151cfc018c1ed08a">2614873d07607110151cfc018c1ed08d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-11 09:08:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

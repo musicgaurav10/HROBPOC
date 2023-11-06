@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>button {&#13;
+background-color: #4CAF50; /* Green */&#13;
+border: none;&#13;
+color: white;&#13;
+padding: 15px 32px;&#13;
+text-align: center;&#13;
+text-decoration: none;&#13;
+display: inline-block;&#13;
+font-size: 16px;&#13;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>_1_sysparm_view_workspace_hrob_poc1_0_sy</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles>x_1106637_hrob_poc.HROB_FINANCE</roles>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-21 06:46:07</sys_created_on>
+        <sys_id>1c47675b07157110151cfc018c1ed0d9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>_1_sysparm_view_workspace_hrob_poc1_0_sy</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sp_page_1c47675b07157110151cfc018c1ed0d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-21 08:27:59</sys_updated_on>
+        <title>Landing Page</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=1c47675b07157110151cfc018c1ed0d9"/>
+</record_update>

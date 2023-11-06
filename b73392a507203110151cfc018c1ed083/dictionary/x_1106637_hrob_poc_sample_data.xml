@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="62ba998607e87110151cfc018c1ed063" label="Sample Data" max_length="40" name="x_1106637_hrob_poc_sample_data" text_index="true" type="collection">
+        <element label="Attachment" max_length="40" name="attachment" type="file_attachment"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

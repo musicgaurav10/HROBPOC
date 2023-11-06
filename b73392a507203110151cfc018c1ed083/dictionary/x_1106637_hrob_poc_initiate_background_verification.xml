@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4900302107b43110151cfc018c1ed03f" label="Initiate Background Verification" max_length="40" name="x_1106637_hrob_poc_initiate_background_verification" text_index="true" type="collection">
+        <element label="Actual Bonus awarded last year:" max_length="40" name="actual_bonus_awarded_last_year" type="glide_date"/>
+        <element label="Address:" max_length="40" name="address" type="string"/>
+        <element label="City:" max_length="40" name="cit0" type="string"/>
+        <element label="City:" max_length="40" name="cit1" type="string"/>
+        <element label="City:" max_length="40" name="city" type="string"/>
+        <element label="Company:" max_length="40" name="company" type="string"/>
+        <element choice="1" label="Country:" max_length="40" name="countr0" type="html">
+            <choice>
+                <element inactive_on_update="false" label="India" sequence="0" value="India"/>
+                <element inactive_on_update="false" label="Australia" sequence="1" value="Australia"/>
+                <element inactive_on_update="false" label="US" sequence="2" value="US"/>
+                <element inactive_on_update="false" label="Japan" sequence="3" value="Japan"/>
+                <element inactive_on_update="false" label="China" sequence="4" value="China"/>
+                <element inactive_on_update="false" label="UK" sequence="5" value="UK"/>
+                <element inactive_on_update="false" label="Canada" sequence="6" value="Canada"/>
+                <element inactive_on_update="false" label="Sweden" sequence="7" value="Sweden"/>
+            </choice>
+        </element>
+        <element choice="1" label="Country:" max_length="40" name="countr1" type="html">
+            <choice>
+                <element inactive_on_update="false" label="India" sequence="0" value="India"/>
+                <element inactive_on_update="false" label="Australia" sequence="1" value="Australia"/>
+                <element inactive_on_update="false" label="US" sequence="2" value="US"/>
+                <element inactive_on_update="false" label="Japan" sequence="3" value="Japan"/>
+                <element inactive_on_update="false" label="China" sequence="4" value="China"/>
+                <element inactive_on_update="false" label="UK" sequence="5" value="UK"/>
+                <element inactive_on_update="false" label="Canada" sequence="6" value="Canada"/>
+                <element inactive_on_update="false" label="Sweden" sequence="7" value="Sweden"/>
+            </choice>
+        </element>
+        <element choice="1" label="Country:" max_length="40" name="country" type="html">
+            <choice>
+                <element inactive_on_update="false" label="India" sequence="0" value="India"/>
+                <element inactive_on_update="false" label="Australia" sequence="1" value="Australia"/>
+                <element inactive_on_update="false" label="US" sequence="2" value="US"/>
+                <element inactive_on_update="false" label="Japan" sequence="3" value="Japan"/>
+                <element inactive_on_update="false" label="China" sequence="4" value="China"/>
+                <element inactive_on_update="false" label="UK" sequence="5" value="UK"/>
+                <element inactive_on_update="false" label="Canada" sequence="6" value="Canada"/>
+                <element inactive_on_update="false" label="Sweden" sequence="7" value="Sweden"/>
+            </choice>
+        </element>
+        <element label="Degree:" max_length="40" name="degre0" type="string"/>
+        <element label="Degree:" max_length="40" name="degree" type="string"/>
+        <element choice="3" label="Did you graduate?" max_length="40" name="did_you_graduat0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element choice="3" label="Did you graduate?" max_length="40" name="did_you_graduate" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Employment End Date:" max_length="40" name="employment_end_date" type="glide_date"/>
+        <element label="Employment Start Date:" max_length="40" name="employment_start_date" type="glide_date"/>
+        <element label="Ending Base Salary:" max_length="40" name="ending_base_salary" type="integer"/>
+        <element label="Ending Job Title:" max_length="40" name="ending_job_title" type="string"/>
+        <element label="Ending Target Bonus:" max_length="40" name="ending_target_bonus" type="integer"/>
+        <element label="High School:" max_length="40" name="high_school" type="string"/>
+        <element label="Mobile Number:" max_length="40" name="mobile_number" type="phone_number_e164"/>
+        <element label="Name:" max_length="40" name="name" type="string"/>
+        <element label="Onboarding Start Date:" max_length="40" name="onboarding_start_date" type="glide_date"/>
+        <element label="Onboarding Status" max_length="40" name="onboarding_status" type="string"/>
+        <element label="Other Studies:" max_length="40" name="other_studies" type="string"/>
+        <element label="Personal Email:" max_length="40" name="personal_email" type="string"/>
+        <element label="Phone:" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="Profile Picture:" max_length="40" name="profile_picture" type="file_attachment"/>
+        <element label="Reason for Leaving:" max_length="40" name="reason_for_leaving" type="string"/>
+        <element label="Starting Base Salary:" max_length="40" name="starting_base_salary" type="string"/>
+        <element label="Starting Target Bonus:" max_length="40" name="starting_target_bonus" type="string"/>
+        <element label="Start Job Title" max_length="40" name="start_job_title" type="string"/>
+        <element label="State:" max_length="40" name="stat0" type="string"/>
+        <element label="State:" max_length="40" name="stat1" type="string"/>
+        <element label="State:" max_length="40" name="state" type="string"/>
+        <element label="Street Address:" max_length="40" name="street_addres0" type="string"/>
+        <element label="Street Address:" max_length="40" name="street_addres1" type="string"/>
+        <element label="Street Address:" max_length="40" name="street_address" type="string"/>
+        <element label="Supervisor:" max_length="40" name="supervisor" type="string"/>
+        <element label="Zip Code:" max_length="40" name="zip_cod0" type="integer"/>
+        <element label="Zip Code:" max_length="40" name="zip_cod1" type="integer"/>
+        <element label="Zip Code:" max_length="40" name="zip_code" type="integer"/>
+    </element>
+</database>

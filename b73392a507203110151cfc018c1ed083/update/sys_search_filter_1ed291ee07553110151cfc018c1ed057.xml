@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Offerletter table">f280841307a03110151cfc018c1ed08a</ais_search_source>
+        <label>Offerletter table</label>
+        <name>Offerletter table</name>
+        <order>1700</order>
+        <search_context_config display_value="HROB-Demo AI Search Configuration">e9a251ae005531100e9e1b75be52ff96</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-18 12:01:48</sys_created_on>
+        <sys_id>1ed291ee07553110151cfc018c1ed057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Offerletter table</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_search_filter_1ed291ee07553110151cfc018c1ed057</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-18 12:01:48</sys_updated_on>
+    </sys_search_filter>
+</record_update>

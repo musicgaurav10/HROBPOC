@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Education Details" section_id="1df07f5507703110151cfc018c1ed0c6" sys_domain="global" table="x_1106637_hrob_poc_candidate_profile_details" version="3" view="Education_Details">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e301339507703110151cfc018c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>middle_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e701339507703110151cfc018c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>eb01339507703110151cfc018c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attached_photo</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>ef01339507703110151cfc018c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>personal_email</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e301339507703110151cfc018c1ed034</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip_code</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e701339507703110151cfc018c1ed034</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>eb01339507703110151cfc018c1ed034</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_candidate_convicted_for_colony</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>ef01339507703110151cfc018c1ed034</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street_address</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e301339507703110151cfc018c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other_studies</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e701339507703110151cfc018c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employment_start_date</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>eb01339507703110151cfc018c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starting_job_title</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>ef01339507703110151cfc018c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starting_base_salary</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e301339507703110151cfc018c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starting_target_bonus</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e701339507703110151cfc018c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ending_target_bonus</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>eb01339507703110151cfc018c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actual_bonus_awarded_last_year</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>ef01339507703110151cfc018c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reason_for_leaving</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e301339507703110151cfc018c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e701339507703110151cfc018c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_birth</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>eb01339507703110151cfc018c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ssn</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>ef01339507703110151cfc018c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attached_profile</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e301339507703110151cfc018c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>home</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e701339507703110151cfc018c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>eb01339507703110151cfc018c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>ef01339507703110151cfc018c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e301339507703110151cfc018c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>does_the_candidate_have_special_needs</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e701339507703110151cfc018c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>college_university</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>eb01339507703110151cfc018c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>did_you_graduate</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>ef01339507703110151cfc018c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employment_end_date</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e301339507703110151cfc018c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ending_job_title</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>e701339507703110151cfc018c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ending_base_salary</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:49:13</sys_created_on>
+            <sys_id>eb01339507703110151cfc018c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="c9f07f5507703110151cfc018c1ed0c2">1df07f5507703110151cfc018c1ed0c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Education Details</caption>
+            <header>false</header>
+            <name>x_1106637_hrob_poc_candidate_profile_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 05:48:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1df07f5507703110151cfc018c1ed0c6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1106637_hrob_poc_candidate_profile_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_ui_section_1df07f5507703110151cfc018c1ed0c6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 05:49:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Education Details" name="Education_Details">c9f07f5507703110151cfc018c1ed0c2</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

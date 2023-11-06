@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>HR Data Table</name>
+        <retention_policy/>
+        <source>x_1106637_hrob_poc_hr_data</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>HROB_HR</sys_created_by>
+        <sys_created_on>2023-10-17 08:59:25</sys_created_on>
+        <sys_id>ad3ff1bb07757110151cfc018c1ed036</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Data Table</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>ais_datasource_ad3ff1bb07757110151cfc018c1ed036</sys_update_name>
+        <sys_updated_by>HROB_HR</sys_updated_by>
+        <sys_updated_on>2023-10-17 08:59:25</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

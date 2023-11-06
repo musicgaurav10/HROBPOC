@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Candidate Details" section_id="c0f2512207953110151cfc018c1ed0da" sys_domain="global" table="x_1106637_hrob_poc_initiate_provisioning" version="3" view="Workspace-HROB-Demo-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_id>8cf2512207953110151cfc018c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Details" display_value="Candidate Details" name="x_1106637_hrob_poc_initiate_provisioning" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">c0f2512207953110151cfc018c1ed0da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_id>80f2512207953110151cfc018c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Details" display_value="Candidate Details" name="x_1106637_hrob_poc_initiate_provisioning" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">c0f2512207953110151cfc018c1ed0da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>offered_position</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_id>84f2512207953110151cfc018c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Details" display_value="Candidate Details" name="x_1106637_hrob_poc_initiate_provisioning" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">c0f2512207953110151cfc018c1ed0da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_id>88f2512207953110151cfc018c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Details" display_value="Candidate Details" name="x_1106637_hrob_poc_initiate_provisioning" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">c0f2512207953110151cfc018c1ed0da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comment</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_id>8cf2512207953110151cfc018c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Details" display_value="Candidate Details" name="x_1106637_hrob_poc_initiate_provisioning" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">c0f2512207953110151cfc018c1ed0da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_id>80f2512207953110151cfc018c1ed0dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Details" display_value="Candidate Details" name="x_1106637_hrob_poc_initiate_provisioning" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">c0f2512207953110151cfc018c1ed0da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>profile_picture</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_id>84f2512207953110151cfc018c1ed0dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Details" display_value="Candidate Details" name="x_1106637_hrob_poc_initiate_provisioning" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">c0f2512207953110151cfc018c1ed0da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Candidate Details</caption>
+            <header>false</header>
+            <name>x_1106637_hrob_poc_initiate_provisioning</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0f2512207953110151cfc018c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1106637_hrob_poc_initiate_provisioning</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_ui_section_c0f2512207953110151cfc018c1ed0da</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace HROB Demo 0" name="Workspace-HROB-Demo-0">a9a251ae3c553110a6c2ef16efcc3a97</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

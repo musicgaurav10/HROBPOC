@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>other</category>
+        <css>form {&#13;
+  border: 3px solid #f1f1f1;&#13;
+}&#13;
+&#13;
+/* Full-width inputs */&#13;
+input[type=text], input[type=password] {&#13;
+  width: 100%;&#13;
+  padding: 12px 20px;&#13;
+  margin: 8px 0;&#13;
+  display: inline-block;&#13;
+  border: 1px solid #ccc;&#13;
+  box-sizing: border-box;&#13;
+}&#13;
+&#13;
+/* Set a style for all buttons */&#13;
+button {&#13;
+  background-color: #04AA6D;&#13;
+  color: white;&#13;
+  padding: 14px 20px;&#13;
+  margin: 8px 0;&#13;
+  border: none;&#13;
+  cursor: pointer;&#13;
+  width: 100%;&#13;
+}&#13;
+&#13;
+/* Add a hover effect for buttons */&#13;
+button:hover {&#13;
+  opacity: 0.8;&#13;
+}&#13;
+&#13;
+/* Extra style for the cancel button (red) */&#13;
+.cancelbtn {&#13;
+  width: auto;&#13;
+  padding: 10px 18px;&#13;
+  background-color: #f44336;&#13;
+}&#13;
+&#13;
+/* Center the avatar image inside this container */&#13;
+.imgcontainer {&#13;
+  text-align: center;&#13;
+  margin: 24px 0 12px 0;&#13;
+}&#13;
+&#13;
+/* Avatar image */&#13;
+img.avatar {&#13;
+  width: 40%;&#13;
+  border-radius: 50%;&#13;
+}&#13;
+&#13;
+/* Add padding to containers */&#13;
+.container {&#13;
+  padding: 16px;&#13;
+}&#13;
+&#13;
+/* The "Forgot password" text */&#13;
+span.psw {&#13;
+  float: right;&#13;
+  padding-top: 16px;&#13;
+}&#13;
+&#13;
+/* Change styles for span and cancel button on extra small screens */&#13;
+@media screen and (max-width: 300px) {&#13;
+  span.psw {&#13;
+    display: block;&#13;
+    float: none;&#13;
+  }&#13;
+  .cancelbtn {&#13;
+    width: 100%;&#13;
+  }&#13;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure>LOGIN PAGE</dynamic_title_structure>
+        <id>copy_of_login_1</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>true</public>
+        <roles>x_1106637_hrob_poc.HROB_FINANCE,x_1106637_hrob_poc.HROB_HR,x_1106637_hrob_poc.HROB_OPERATION,x_1106637_hrob_poc.HROB_RM,x_1106637_hrob_poc.HROB_SERVICENOW_RPA_BOT,x_1106637_hrob_poc.HROB_VERIFICATION</roles>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 08:56:13</sys_created_on>
+        <sys_id>36bec973071db110151cfc018c1ed064</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>copy_of_login_1</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sp_page_36bec973071db110151cfc018c1ed064</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 08:59:04</sys_updated_on>
+        <title>Copy of Login (1)</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=36bec973071db110151cfc018c1ed064"/>
+</record_update>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="04e028ac07703110151cfc018c1ed03f" label="Candidate Profile Details" max_length="40" name="x_1106637_hrob_poc_candidate_profile_details" text_index="true" type="collection">
+        <element label="Actual Bonus awarded last year" max_length="40" name="actual_bonus_awarded_last_year" type="string"/>
+        <element label="Upload Photo" mandatory="true" max_length="40" name="attached_photo" type="string"/>
+        <element label="Upload Profile" mandatory="true" max_length="40" name="attached_profile" type="file_attachment"/>
+        <element default="Full Time" label="Badge Type" max_length="40" name="badge_type" type="string"/>
+        <element label="Base salary_joining" max_length="40" name="base_salary_joining" type="integer"/>
+        <element label="Bonus(%)" max_length="40" name="bonus" type="integer"/>
+        <element label="Bonus_joining" max_length="40" name="bonus_joining" type="integer"/>
+        <element default="Software Engineer" label="Business Card Tile" max_length="40" name="business_card_tile" type="string"/>
+        <element label="City" mandatory="true" max_length="40" name="city" type="string"/>
+        <element label="city_previous" max_length="40" name="city_previous" type="string"/>
+        <element label="College University" max_length="40" name="college_universit0" type="string"/>
+        <element active="false" label="College/University" max_length="40" name="college_university" type="string"/>
+        <element label="company" max_length="40" name="company" type="string"/>
+        <element label="Company and Title" max_length="40" name="company_and_title" type="string"/>
+        <element label="Complete Status" max_length="40" name="complete_status" type="string"/>
+        <element choice="1" label="Country" mandatory="true" max_length="40" name="country" type="html">
+            <choice>
+                <element inactive_on_update="false" label="India" sequence="0" value="India"/>
+                <element inactive_on_update="false" label="Australia" sequence="1" value="Australia"/>
+                <element inactive_on_update="false" label="US" sequence="2" value="US"/>
+                <element inactive_on_update="false" label="Japan" sequence="3" value="Japan"/>
+                <element inactive_on_update="false" label="China" sequence="4" value="China"/>
+                <element inactive_on_update="false" label="UK" sequence="5" value="UK"/>
+                <element inactive_on_update="false" label="Canada" sequence="6" value="Canada"/>
+                <element inactive_on_update="false" label="Sweden" sequence="7" value="Sweden"/>
+            </choice>
+        </element>
+        <element label="Country1 Education" max_length="40" name="country1_education" type="string"/>
+        <element label="Country2_education" max_length="40" name="country2_education" type="string"/>
+        <element label="Country3_education" max_length="40" name="country3_education" type="string"/>
+        <element label="country_previous" max_length="40" name="country_previous" type="string"/>
+        <element label="Date of Birth" mandatory="true" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="Degree1 Education" max_length="40" name="degree1_education" type="string"/>
+        <element label="Degree2_education" max_length="40" name="degree2_education" type="string"/>
+        <element label="Degree3_education" max_length="40" name="degree3_education" type="string"/>
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element label="Did you graduate1_education" max_length="40" name="did_you_graduate1_education" type="string"/>
+        <element label="Did you graduate2_education" max_length="40" name="did_you_graduate2_education" type="string"/>
+        <element label="Did you graduate3_education" max_length="40" name="did_you_graduate3_education" type="string"/>
+        <element choice="3" default="No" label="Does the candidate have special needs" mandatory="true" max_length="40" name="does_the_candidate_have_special_needs" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Duration(hrs)" max_length="40" name="duration_hrs" type="string"/>
+        <element label="Education_city1" max_length="40" name="education_city1" type="string"/>
+        <element label="Education City2" max_length="40" name="education_city2" type="string"/>
+        <element label="Education City3" max_length="40" name="education_city3" type="string"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Employment End Date" max_length="40" name="employment_end_date" type="string"/>
+        <element label="Employment Start Date" max_length="40" name="employment_start_dat0" type="string"/>
+        <element label="Ending Base Salary" max_length="40" name="ending_base_salary" type="string"/>
+        <element label="Ending job Title" max_length="40" name="ending_job_title" type="string"/>
+        <element label="Ending Target Bonus" max_length="40" name="ending_target_bonus" type="string"/>
+        <element label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="High School" max_length="40" name="high_school" type="string"/>
+        <element label="Hiring Manager _joining" max_length="40" name="hiring_manager_joining" type="string"/>
+        <element label="Home" mandatory="true" max_length="40" name="home" type="string"/>
+        <element choice="3" default="No" label="Is Candidate Convicted for Colony" mandatory="true" max_length="40" name="is_candidate_convicted_for_colony" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="Joining Date" max_length="40" name="joining_date" type="glide_date"/>
+        <element label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element label="Location_joining" max_length="40" name="location_joining" type="string"/>
+        <element label="Middle Name" max_length="40" name="middle_name" type="string"/>
+        <element label="Mobile" mandatory="true" max_length="40" name="mobile" type="string"/>
+        <element label="Name and Title" max_length="40" name="name_and_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="No" label="offerGenerated" max_length="40" name="offergenerated" type="string"/>
+        <element default="javascript:gs.now()" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="On boarding Start Date" max_length="40" name="on_boarding_start_date" type="glide_date" use_dynamic_default="true"/>
+        <element default="Verification Initiated" label="On Boarding Status" max_length="40" name="on_boarding_status" type="string"/>
+        <element label="Other studies_adu" max_length="40" name="other_studies_adu" type="string"/>
+        <element label="Personal Email" mandatory="true" max_length="40" name="personal_email" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="string"/>
+        <element default="No" label="Physically challenged" max_length="40" name="physically_challenged" type="string"/>
+        <element label="Position" max_length="40" name="position" type="string"/>
+        <element label="Reason for leaving" max_length="40" name="reason_for_leaving" type="string"/>
+        <element label="Recruitment Manager_joining" max_length="40" name="recruitment_manager_joining" type="string"/>
+        <element label="Role" max_length="40" name="role" type="string"/>
+        <element label="SSN" max_length="40" name="ssn" type="integer"/>
+        <element label="Stack option" max_length="40" name="stack_option" type="integer"/>
+        <element label="Starting Base Salary" max_length="40" name="starting_base_salary" type="string"/>
+        <element label="Starting job Title" max_length="40" name="starting_job_title" type="string"/>
+        <element label="Starting Target Bonus" max_length="40" name="starting_target_bonus" type="string"/>
+        <element label="State" max_length="40" name="stat0" type="string"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element label="State1 Education" max_length="40" name="state1_education" type="string"/>
+        <element label="State2 Education" max_length="40" name="state2_education" type="string"/>
+        <element label="State3 Education" max_length="40" name="state3_education" type="string"/>
+        <element label="state_previous" max_length="40" name="state_previous" type="string"/>
+        <element label="statusForOfferAcceptance" max_length="40" name="statusforofferacceptance" type="string"/>
+        <element label="stock Option_joining" max_length="40" name="stock_option_joining" type="string"/>
+        <element label="Street Address" mandatory="true" max_length="40" name="street_address" type="string"/>
+        <element label="Street Address1 Education" max_length="40" name="street_address1_education" type="string"/>
+        <element label="Street Address2_education" max_length="40" name="street_address2_education" type="string"/>
+        <element label="Street Address3_education" max_length="40" name="street_address3_education" type="string"/>
+        <element label="street address_previous" max_length="40" name="street_address_previous" type="string"/>
+        <element label="Supervisor" max_length="40" name="supervisor" type="string"/>
+        <element default="6f9a6d92072cb110151cfc018c1ed03d" label="Template" max_length="32" name="template" reference="sn_doc_html_template" type="reference"/>
+        <element label="test" max_length="40" name="test" type="string"/>
+        <element label="User Id" max_length="100" name="user_id" type="string"/>
+        <element label="Zipcode1 Education" max_length="40" name="zipcode1_education" type="integer"/>
+        <element label="Zipcode2 Education" max_length="40" name="zipcode2_education" type="integer"/>
+        <element label="Zipcode3 Education" max_length="40" name="zipcode3_education" type="integer"/>
+        <element label="zipCode_previous" max_length="40" name="zipcode_previous" type="string"/>
+        <element label="Zip Code" mandatory="true" max_length="40" name="zip_code" type="integer"/>
+        <index name="index">
+            <element name="template"/>
+        </index>
+    </element>
+</database>

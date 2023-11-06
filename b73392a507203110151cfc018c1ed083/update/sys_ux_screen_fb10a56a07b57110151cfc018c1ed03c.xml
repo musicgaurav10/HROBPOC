@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="HROB-POC1 Config">5adb96c77e5131106693f7f4ddd130fd</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="TEST LOGIN default">3f10a56a07b57110151cfc018c1ed039</macroponent>
+        <macroponent_config>{ }</macroponent_config>
+        <name>TEST LOGIN default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="TEST LOGIN">6b10216a07b57110151cfc018c1ed0d2</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 09:31:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fb10a56a07b57110151cfc018c1ed03c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST LOGIN default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_screen_fb10a56a07b57110151cfc018c1ed03c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 09:31:10</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fb10a56a07b57110151cfc018c1ed03c"/>
+</record_update>

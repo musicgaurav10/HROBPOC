@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Confirmation Config">62b2977df1a0711040b78451eee7b7e9</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>Employee-Confirmation</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>employee-confirmation</route_type>
+        <screen_type display_value="Employee-Confirmation">5c435ff907a07110151cfc018c1ed0a9</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 06:40:18</sys_created_on>
+        <sys_id>e8431bbd07a07110151cfc018c1ed076</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Employee-Confirmation</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_app_route_e8431bbd07a07110151cfc018c1ed076</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 09:32:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=e8431bbd07a07110151cfc018c1ed076"/>
+</record_update>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "progress_bar_1",
+  "elementLabel" : "Progress bar 1",
+  "propertyValues" : {
+    "size" : {
+      "type" : "JSON_LITERAL",
+      "value" : "md"
+    },
+    "max" : {
+      "type" : "JSON_LITERAL",
+      "value" : "1"
+    },
+    "pathType" : {
+      "type" : "JSON_LITERAL",
+      "value" : "initial"
+    },
+    "configAria" : {
+      "type" : "MAP_CONTAINER",
+      "container" : { }
+    },
+    "value" : {
+      "type" : "JSON_LITERAL",
+      "value" : "0.25"
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "1e035d1ebdcb47612f5b00382e2c3474",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "viewport_zhr",
+  "elementLabel" : "Tabs 1",
+  "propertyValues" : {
+    "tabStyles" : {
+      "type" : "JSON_LITERAL",
+      "value" : ".tabset-tabs{\n\n}\n.tabset-container{\n\n}"
+    },
+    "fixedWidth" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "defaultRoute" : {
+      "type" : "JSON_LITERAL",
+      "value" : "clmu8z4a00glf357wgo7my53p"
+    },
+    "selectedTabIndex" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "spaceBetweenItems" : {
+      "type" : "JSON_LITERAL",
+      "value" : "none"
+    },
+    "dynamicTabData" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "enableCollapsing" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "initiallyCollapsed" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "viewportConfiguration" : {
+      "type" : "JSON_LITERAL",
+      "value" : {
+        "validation" : {
+          "name" : {
+            "required" : true
+          },
+          "order" : {
+            "required" : false
+          },
+          "icon" : {
+            "required" : false
+          }
+        },
+        "enableDataDrivenTabs" : true
+      }
+    },
+    "size" : {
+      "type" : "JSON_LITERAL",
+      "value" : "md"
+    },
+    "showInlinePadding" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "position" : {
+      "type" : "JSON_LITERAL",
+      "value" : "top"
+    },
+    "items" : {
+      "type" : "LIST_CONTAINER",
+      "container" : [ ]
+    },
+    "maxWidth" : {
+      "type" : "JSON_LITERAL",
+      "value" : 240
+    },
+    "hideLabel" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "b324da974cef96f2db1d484cfeda4e3e",
+    "type" : "MACROPONENT_VIEWPORT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "clmuiiyrgiaagldddffhhwxxzbbhhddcm",
+      "elementLabel" : "Untitled tab",
+      "propertyValues" : {
+        "ariaRegionHeadingLevel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "1"
+        },
+        "hideEmptyStateUi" : {
+          "type" : "JSON_LITERAL",
+          "value" : true
+        },
+        "ariaRegionName" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "",
+            "comment" : ""
+          }
+        },
+        "includeAriaHeading" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "type" : {
+          "type" : "JSON_LITERAL",
+          "value" : "section"
+        },
+        "ariaRole" : {
+          "type" : "JSON_LITERAL",
+          "value" : ""
+        }
+      },
+      "eventMappings" : [ ],
+      "slot" : "clmu8yrgh0glc357w430u58ps",
+      "definition" : {
+        "id" : "d356d14b6e293a3020a244b63d278d8f",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : {
+        "composition" : [ {
+          "elementId" : "button_1",
+          "elementLabel" : "Button 1",
+          "propertyValues" : {
+            "size" : {
+              "type" : "JSON_LITERAL",
+              "value" : "md"
+            },
+            "variant" : {
+              "type" : "JSON_LITERAL",
+              "value" : "secondary"
+            },
+            "icon" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            },
+            "disabled" : {
+              "type" : "JSON_LITERAL",
+              "value" : false
+            },
+            "label" : {
+              "type" : "TRANSLATION_LITERAL",
+              "value" : {
+                "code" : null,
+                "message" : "Button",
+                "comment" : ""
+              }
+            },
+            "tooltipContent" : {
+              "type" : "TRANSLATION_LITERAL",
+              "value" : {
+                "code" : null,
+                "message" : "Enter a label",
+                "comment" : ""
+              }
+            },
+            "configAria" : {
+              "type" : "MAP_CONTAINER",
+              "container" : { }
+            }
+          },
+          "eventMappings" : [ ],
+          "slot" : null,
+          "definition" : {
+            "id" : "d37ce8abca89d02905fed903c8e34d8e",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : null,
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : null
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : { }
+        } ],
+        "layout" : {
+          "default" : {
+            "children" : null,
+            "isInline" : null,
+            "items" : [{"element_id":"button_1","styles":{}}],
+            "root" : null,
+            "rules" : null,
+            "styles" : {"flex-direction":"column"},
+            "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+            "type" : "flex"
+          },
+          "version" : "3.0.0"
+        }
+      },
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : null
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ ],
+      "styles" : {
+        "width" : "100%"
+      }
+    }, {
+      "elementId" : "clmuiizeeahhaaglgddffhhwaapbwiiindd",
+      "elementLabel" : "next",
+      "propertyValues" : {
+        "ariaRegionHeadingLevel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "1"
+        },
+        "hideEmptyStateUi" : {
+          "type" : "JSON_LITERAL",
+          "value" : true
+        },
+        "ariaRegionName" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "",
+            "comment" : ""
+          }
+        },
+        "includeAriaHeading" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "type" : {
+          "type" : "JSON_LITERAL",
+          "value" : "section"
+        },
+        "ariaRole" : {
+          "type" : "JSON_LITERAL",
+          "value" : ""
+        }
+      },
+      "eventMappings" : [ ],
+      "slot" : "clmu8z4a00glf357wgo7my53p",
+      "definition" : {
+        "id" : "d356d14b6e293a3020a244b63d278d8f",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : {
+        "composition" : [ ],
+        "layout" : {
+          "default" : {
+            "children" : null,
+            "isInline" : null,
+            "items" : [],
+            "root" : null,
+            "rules" : null,
+            "styles" : {"flex-direction":"column"},
+            "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+            "type" : "flex"
+          },
+          "version" : "3.0.0"
+        }
+      },
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : null
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ ],
+      "styles" : {
+        "width" : "100%"
+      }
+    } ],
+    "layout" : null
+  },
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ {
+    "conditional" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "extensionPoint" : null,
+    "icon" : "",
+    "id" : "clmu8yrgh0glc357w430u58ps",
+    "label" : {
+      "type" : "JSON_LITERAL",
+      "value" : "Untitled tab"
+    },
+    "order" : 100,
+    "type" : "local"
+  }, {
+    "conditional" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "extensionPoint" : null,
+    "icon" : null,
+    "id" : "clmu8z4a00glf357wgo7my53p",
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "next",
+        "comment" : ""
+      }
+    },
+    "order" : 200,
+    "type" : "local"
+  } ],
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <description/>
+        <dispatched_events>72b3f8b70759b110151cfc018c1ed0e3</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"element_id":"progress_bar_1","styles":{}},{"element_id":"viewport_zhr","styles":{}}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"flex-direction":"column"},
+    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+    "type" : "flex"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>startOnboarding default</name>
+        <output_prop_mapping/>
+        <props>[ ]</props>
+        <required_translations>[ {
+  "message" : "Button",
+  "comment" : ""
+}, {
+  "message" : "Enter a label",
+  "comment" : ""
+}, {
+  "message" : "next",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 06:35:06</sys_created_on>
+        <sys_id>f36ea0330759b110151cfc018c1ed045</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>startOnboarding default</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_macroponent_f36ea0330759b110151cfc018c1ed045</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 08:27:21</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=f36ea0330759b110151cfc018c1ed045"/>
+</record_update>

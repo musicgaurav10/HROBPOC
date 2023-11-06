@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="countr1" table="x_1106637_hrob_poc_initiate_background_verification" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>countr1</element>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:52:47</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>countr1</sys_name>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_choice_x_1106637_hrob_poc_initiate_background_verification_countr1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:52:47</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>countr1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>India</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e8670ed07b43110151cfc018c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:52:46</sys_updated_on>
+            <value>India</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>countr1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Australia</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:52:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a8670ed07b43110151cfc018c1ed097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:52:47</sys_updated_on>
+            <value>Australia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>countr1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:52:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>968670ed07b43110151cfc018c1ed098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:52:47</sys_updated_on>
+            <value>US</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>countr1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Japan</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:52:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>168670ed07b43110151cfc018c1ed099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:52:47</sys_updated_on>
+            <value>Japan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>countr1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>China</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:52:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>928670ed07b43110151cfc018c1ed09a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:52:47</sys_updated_on>
+            <value>China</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>countr1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UK</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:52:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>128670ed07b43110151cfc018c1ed09b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:52:47</sys_updated_on>
+            <value>UK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>countr1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canada</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:52:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e8670ed07b43110151cfc018c1ed09b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:52:47</sys_updated_on>
+            <value>Canada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>countr1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sweden</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:52:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e8670ed07b43110151cfc018c1ed09c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:52:47</sys_updated_on>
+            <value>Sweden</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="196748b207e03510151cfc018c1ed0e2" label="complete reference verification" max_length="40" name="x_1106637_hrob_poc_cprofile_picture_omplete_reference_verification" text_index="true" type="collection">
+        <element label="Company and Title" max_length="40" name="company_and_title" type="string"/>
+        <element label="Duration" max_length="40" name="duration" type="integer"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element display="true" label="Name and Title" max_length="40" name="name_and_title" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="integer"/>
+    </element>
+</database>

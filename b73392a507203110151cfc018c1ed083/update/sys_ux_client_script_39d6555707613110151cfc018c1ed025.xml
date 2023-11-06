@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Review Employee Details default">2d3f3f3d07647110151cfc018c1ed034</macroponent>
+        <name>Update Status</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+function handler({api, event, helpers, imports}) {
+    let fields = 'statusforofferacceptance=Offer Confirmation' ;
+    fields = fields + '^complete_status=Initiated';
+  fields= fields.toString();
+  console.log(fields);
+  console.log(api.state.sysIdCurrent);
+  api.data.update_record_1.execute({
+    table: "x_1106637_hrob_poc_candidate_profile_details",
+    recordId : api.state.sysIdCurrent,
+    templateFields: fields,
+    useSetDisplayValue: false,
+  });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 06:30:23</sys_created_on>
+        <sys_id>39d6555707613110151cfc018c1ed025</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Update Status</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_client_script_39d6555707613110151cfc018c1ed025</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-02 09:33:33</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

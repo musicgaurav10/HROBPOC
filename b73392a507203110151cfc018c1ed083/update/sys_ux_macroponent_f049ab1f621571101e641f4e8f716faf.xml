@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "624eb0cbc3a71010574c42583c40dd2d_wrapper",
+  "elementLabel" : "wrapper",
+  "propertyValues" : {
+    "ariaRegionHeadingLevel" : {
+      "type" : "JSON_LITERAL",
+      "value" : "1"
+    },
+    "hideEmptyStateUi" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "ariaRegionName" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "",
+        "comment" : ""
+      }
+    },
+    "includeAriaHeading" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "type" : {
+      "type" : "JSON_LITERAL",
+      "value" : "section"
+    },
+    "ariaRole" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "d356d14b6e293a3020a244b63d278d8f",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "stylized_container_1",
+      "elementLabel" : "Stylized Container 1",
+      "propertyValues" : {
+        "border" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "defer" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "collapseButtonTooltipContent" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "Collapse container to hide contents",
+            "comment" : ""
+          }
+        },
+        "expandButtonTooltipContent" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "Expand container to show contents",
+            "comment" : ""
+          }
+        },
+        "collapsed" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "disableDismiss" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "canCollapse" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "includeAriaHeading" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "label" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "",
+            "comment" : ""
+          }
+        },
+        "type" : {
+          "type" : "JSON_LITERAL",
+          "value" : "default"
+        },
+        "labelledby" : {
+          "type" : "JSON_LITERAL",
+          "value" : ""
+        },
+        "size" : {
+          "type" : "JSON_LITERAL",
+          "value" : ""
+        },
+        "ariaRegionHeadingLevel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "1"
+        },
+        "bgvar" : {
+          "type" : "JSON_LITERAL",
+          "value" : "neutral-1"
+        },
+        "hideEmptyStateUi" : {
+          "type" : "JSON_LITERAL",
+          "value" : true
+        },
+        "ariaRegionName" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "",
+            "comment" : ""
+          }
+        },
+        "bare" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        }
+      },
+      "eventMappings" : [ ],
+      "slot" : null,
+      "definition" : {
+        "id" : "80653115e23949b501e719ae9b0b42a6",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : {
+        "composition" : [ {
+          "elementId" : "stylized_container_1_Main",
+          "elementLabel" : "Main",
+          "propertyValues" : {
+            "ariaRegionHeadingLevel" : {
+              "type" : "JSON_LITERAL",
+              "value" : "1"
+            },
+            "hideEmptyStateUi" : {
+              "type" : "JSON_LITERAL",
+              "value" : true
+            },
+            "ariaRegionName" : {
+              "type" : "TRANSLATION_LITERAL",
+              "value" : {
+                "code" : null,
+                "message" : "",
+                "comment" : ""
+              }
+            },
+            "includeAriaHeading" : {
+              "type" : "JSON_LITERAL",
+              "value" : false
+            },
+            "type" : {
+              "type" : "JSON_LITERAL",
+              "value" : "section"
+            },
+            "ariaRole" : {
+              "type" : "JSON_LITERAL",
+              "value" : ""
+            }
+          },
+          "eventMappings" : [ ],
+          "slot" : null,
+          "definition" : {
+            "id" : "d356d14b6e293a3020a244b63d278d8f",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : {
+            "composition" : [ {
+              "elementId" : "search_input_1",
+              "elementLabel" : "Search Input 1",
+              "propertyValues" : {
+                "disableAutocomplete" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : false
+                },
+                "searchTerm" : {
+                  "type" : "CONTEXT_BINDING",
+                  "binding" : {
+                    "address" : [ "searchTerm" ],
+                    "category" : "props"
+                  }
+                },
+                "size" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "lg"
+                },
+                "placeholder" : {
+                  "type" : "TRANSLATION_LITERAL",
+                  "value" : {
+                    "code" : null,
+                    "message" : "Search",
+                    "comment" : ""
+                  }
+                },
+                "placement" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "body"
+                },
+                "searchContextConfigId" : {
+                  "type" : "CONTEXT_BINDING",
+                  "binding" : {
+                    "address" : [ "searchContextConfigId" ],
+                    "category" : "props"
+                  }
+                }
+              },
+              "eventMappings" : [ {
+                "eventMappingId" : "ckfucccjqlaaaaeehddhhhdcckyjjbccfl",
+                "isConfiguration" : false,
+                "offRowStorageId" : null,
+                "sourceEventApiName" : "sn_search_combobox.SN_SEARCH_COMBOBOX#SEARCH_EXECUTED",
+                "sourceEventCorrelationId" : null,
+                "sourceEventDefinition" : {
+                  "apiName" : "sn_search_combobox.SN_SEARCH_COMBOBOX#SEARCH_EXECUTED",
+                  "id" : null,
+                  "type" : "UXEVENT"
+                },
+                "sourceEventSysId" : null,
+                "targets" : [ {
+                  "broker" : null,
+                  "clientScript" : {
+                    "sysId" : "fc49ab1f7315711085369eaf341dffad"
+                  },
+                  "conditional" : null,
+                  "declarativeAction" : null,
+                  "event" : null,
+                  "operation" : null,
+                  "targetId" : "ckfucccjqlaaaaeeiddhhhdlvffsiivj",
+                  "type" : "CLIENT_SCRIPT"
+                }, {
+                  "broker" : null,
+                  "clientScript" : null,
+                  "conditional" : null,
+                  "declarativeAction" : null,
+                  "event" : null,
+                  "operation" : {
+                    "dataBrokerId" : "0cac8b3073ad101052c7d5fdbdf6a78a",
+                    "operationName" : "REFRESH",
+                    "parentResourceId" : "search_composite_data_broker_1",
+                    "payload" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : { }
+                    }
+                  },
+                  "targetId" : "ckfuhhbbzdmaaaacckddhhhdigghnrddqhh",
+                  "type" : "DATABROKER_OP"
+                } ]
+              } ],
+              "slot" : null,
+              "definition" : {
+                "id" : "ce26d6793802478648556dc1f88fe020",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : null,
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : ""
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : {
+                "width" : "60rem"
+              }
+            } ],
+            "layout" : {
+              "default" : {
+                "children" : null,
+                "isInline" : null,
+                "items" : [{"rules":{},"styles":{},"element_id":"search_input_1"}],
+                "root" : null,
+                "rules" : {},
+                "styles" : {"height":"100%","flex-direction":"row","justify-content":"space-around","align-items":"center","display":"flex","padding-top":"var(--now-static-space--lg)"},
+                "templateId" : null,
+                "type" : "flex"
+              },
+              "version" : "3.0.0"
+            }
+          },
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : null
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : { }
+        } ],
+        "layout" : {
+          "default" : {
+            "children" : null,
+            "isInline" : null,
+            "items" : [{"rules":{},"styles":{"grid-area":"main"},"element_id":"stylized_container_1_Main"}],
+            "root" : null,
+            "rules" : null,
+            "styles" : {"grid-template-rows":"auto","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},
+            "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+            "type" : "grid"
+          },
+          "version" : "3.0.0"
+        }
+      },
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : ""
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ ],
+      "styles" : { }
+    }, {
+      "elementId" : "container_1",
+      "elementLabel" : "Container 1",
+      "propertyValues" : {
+        "ariaRegionHeadingLevel" : {
+          "type" : "JSON_LITERAL",
+          "value" : "1"
+        },
+        "hideEmptyStateUi" : {
+          "type" : "JSON_LITERAL",
+          "value" : true
+        },
+        "ariaRegionName" : {
+          "type" : "TRANSLATION_LITERAL",
+          "value" : {
+            "code" : null,
+            "message" : "",
+            "comment" : ""
+          }
+        },
+        "includeAriaHeading" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "type" : {
+          "type" : "JSON_LITERAL",
+          "value" : "section"
+        },
+        "ariaRole" : {
+          "type" : "JSON_LITERAL",
+          "value" : ""
+        }
+      },
+      "eventMappings" : [ ],
+      "slot" : null,
+      "definition" : {
+        "id" : "d356d14b6e293a3020a244b63d278d8f",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : {
+        "composition" : [ {
+          "elementId" : "container_1_Main",
+          "elementLabel" : "Main",
+          "propertyValues" : {
+            "ariaRegionHeadingLevel" : {
+              "type" : "JSON_LITERAL",
+              "value" : "1"
+            },
+            "hideEmptyStateUi" : {
+              "type" : "JSON_LITERAL",
+              "value" : true
+            },
+            "ariaRegionName" : {
+              "type" : "TRANSLATION_LITERAL",
+              "value" : {
+                "code" : null,
+                "message" : "",
+                "comment" : ""
+              }
+            },
+            "includeAriaHeading" : {
+              "type" : "JSON_LITERAL",
+              "value" : false
+            },
+            "type" : {
+              "type" : "JSON_LITERAL",
+              "value" : "section"
+            },
+            "ariaRole" : {
+              "type" : "JSON_LITERAL",
+              "value" : ""
+            }
+          },
+          "eventMappings" : [ ],
+          "slot" : null,
+          "definition" : {
+            "id" : "d356d14b6e293a3020a244b63d278d8f",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : {
+            "composition" : [ {
+              "elementId" : "tab_filter_component_1",
+              "elementLabel" : "Tab Filter Component 1",
+              "propertyValues" : {
+                "sortFilters" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "[]"
+                },
+                "selectedSortFilters" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "[]"
+                },
+                "size" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "lg"
+                },
+                "selectedFilters" : {
+                  "type" : "DATA_OUTPUT_BINDING",
+                  "binding" : {
+                    "address" : [ "search_composite_data_broker_1", "searchMetadata", "selectedFilterIds" ]
+                  }
+                },
+                "searchFilters" : {
+                  "type" : "DATA_OUTPUT_BINDING",
+                  "binding" : {
+                    "address" : [ "search_composite_data_broker_1", "searchMetadata", "filters" ]
+                  }
+                }
+              },
+              "eventMappings" : [ {
+                "eventMappingId" : "ckfuccdvvwaaaaeevddhhhdxccqhhueert",
+                "isConfiguration" : false,
+                "offRowStorageId" : null,
+                "sourceEventApiName" : "sn_tab_filter.SN_TAB_FILTER#FILTER_SELECTED",
+                "sourceEventCorrelationId" : null,
+                "sourceEventDefinition" : {
+                  "apiName" : "sn_tab_filter.SN_TAB_FILTER#FILTER_SELECTED",
+                  "id" : null,
+                  "type" : "UXEVENT"
+                },
+                "sourceEventSysId" : null,
+                "targets" : [ {
+                  "broker" : null,
+                  "clientScript" : {
+                    "sysId" : "3449ab1f9815711079321e99798488ad"
+                  },
+                  "conditional" : null,
+                  "declarativeAction" : null,
+                  "event" : null,
+                  "operation" : null,
+                  "targetId" : "ckfuccdvvwaaaaeewddhhhdbbczeenukaa",
+                  "type" : "CLIENT_SCRIPT"
+                } ]
+              } ],
+              "slot" : null,
+              "definition" : {
+                "id" : "c505de775fd9dc81e0e2e485d1ec0ea9",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : null,
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : ""
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : { }
+            }, {
+              "elementId" : "container_2",
+              "elementLabel" : "Container 2",
+              "propertyValues" : {
+                "ariaRegionHeadingLevel" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "1"
+                },
+                "hideEmptyStateUi" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : true
+                },
+                "ariaRegionName" : {
+                  "type" : "TRANSLATION_LITERAL",
+                  "value" : {
+                    "code" : null,
+                    "message" : "",
+                    "comment" : ""
+                  }
+                },
+                "includeAriaHeading" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : false
+                },
+                "type" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : "section"
+                },
+                "ariaRole" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : ""
+                }
+              },
+              "eventMappings" : [ ],
+              "slot" : null,
+              "definition" : {
+                "id" : "d356d14b6e293a3020a244b63d278d8f",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : {
+                "composition" : [ {
+                  "elementId" : "search_facet_wrapper",
+                  "elementLabel" : "Search Facet Wrapper",
+                  "propertyValues" : {
+                    "ariaRegionHeadingLevel" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "1"
+                    },
+                    "hideEmptyStateUi" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "ariaRegionName" : {
+                      "type" : "TRANSLATION_LITERAL",
+                      "value" : {
+                        "code" : null,
+                        "message" : "",
+                        "comment" : ""
+                      }
+                    },
+                    "includeAriaHeading" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "type" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "section"
+                    },
+                    "ariaRole" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : ""
+                    }
+                  },
+                  "eventMappings" : [ ],
+                  "slot" : null,
+                  "definition" : {
+                    "id" : "d356d14b6e293a3020a244b63d278d8f",
+                    "type" : "MACROPONENT"
+                  },
+                  "overrides" : {
+                    "composition" : [ {
+                      "elementId" : "search_facet_wrapper_Main",
+                      "elementLabel" : "Main",
+                      "propertyValues" : {
+                        "ariaRegionHeadingLevel" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "1"
+                        },
+                        "hideEmptyStateUi" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : true
+                        },
+                        "ariaRegionName" : {
+                          "type" : "TRANSLATION_LITERAL",
+                          "value" : {
+                            "code" : null,
+                            "message" : "",
+                            "comment" : ""
+                          }
+                        },
+                        "includeAriaHeading" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : false
+                        },
+                        "type" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "section"
+                        },
+                        "ariaRole" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : ""
+                        }
+                      },
+                      "eventMappings" : [ ],
+                      "slot" : null,
+                      "definition" : {
+                        "id" : "d356d14b6e293a3020a244b63d278d8f",
+                        "type" : "MACROPONENT"
+                      },
+                      "overrides" : {
+                        "composition" : [ {
+                          "elementId" : "search_facets_component_1",
+                          "elementLabel" : "Search Facets Component 1",
+                          "propertyValues" : {
+                            "sortFilters" : {
+                              "type" : "JSON_LITERAL",
+                              "value" : "[]"
+                            },
+                            "searchTerm" : {
+                              "type" : "CONTEXT_BINDING",
+                              "binding" : {
+                                "address" : [ "searchTerm" ],
+                                "category" : "props"
+                              }
+                            },
+                            "selectedSortFilters" : {
+                              "type" : "JSON_LITERAL",
+                              "value" : "[]"
+                            },
+                            "size" : {
+                              "type" : "JSON_LITERAL",
+                              "value" : "lg"
+                            },
+                            "enableLabelTranslation" : {
+                              "type" : "JSON_LITERAL",
+                              "value" : false
+                            },
+                            "selectedOptions" : {
+                              "type" : "DATA_OUTPUT_BINDING",
+                              "binding" : {
+                                "address" : [ "search_composite_data_broker_1", "searchMetadata", "appliedFacetFilters" ]
+                              }
+                            },
+                            "label" : {
+                              "type" : "TRANSLATION_LITERAL",
+                              "value" : {
+                                "code" : null,
+                                "message" : "Filters",
+                                "comment" : ""
+                              }
+                            },
+                            "facets" : {
+                              "type" : "DATA_OUTPUT_BINDING",
+                              "binding" : {
+                                "address" : [ "search_composite_data_broker_1", "searchMetadata", "searchFacets" ]
+                              }
+                            },
+                            "searchContextConfigId" : {
+                              "type" : "CONTEXT_BINDING",
+                              "binding" : {
+                                "address" : [ "searchContextConfigId" ],
+                                "category" : "props"
+                              }
+                            }
+                          },
+                          "eventMappings" : [ {
+                            "eventMappingId" : "ckfuccwadkaaaabbiddhhhdggebbshhffyl",
+                            "isConfiguration" : false,
+                            "offRowStorageId" : null,
+                            "sourceEventApiName" : "sn_search_facets.SN_SEARCH_FACETS#SELECTIONS_UPDATED",
+                            "sourceEventCorrelationId" : null,
+                            "sourceEventDefinition" : {
+                              "apiName" : "sn_search_facets.SN_SEARCH_FACETS#SELECTIONS_UPDATED",
+                              "id" : null,
+                              "type" : "UXEVENT"
+                            },
+                            "sourceEventSysId" : null,
+                            "targets" : [ {
+                              "broker" : null,
+                              "clientScript" : {
+                                "sysId" : "7049ab1fc3157110a0b0f9bfcb510fae"
+                              },
+                              "conditional" : null,
+                              "declarativeAction" : null,
+                              "event" : null,
+                              "operation" : null,
+                              "targetId" : "ckfuccwadkaaaabbjddhhhdqmsneesmaa",
+                              "type" : "CLIENT_SCRIPT"
+                            } ]
+                          } ],
+                          "slot" : null,
+                          "definition" : {
+                            "id" : "f87c8f9a2b17510491d16e97103e1362",
+                            "type" : "MACROPONENT"
+                          },
+                          "overrides" : null,
+                          "isHidden" : {
+                            "type" : "JSON_LITERAL",
+                            "value" : ""
+                          },
+                          "isHero" : false,
+                          "extensionPoints" : [ ],
+                          "isNonDestructive" : false,
+                          "items" : [ ],
+                          "styles" : { }
+                        } ],
+                        "layout" : {
+                          "default" : {
+                            "children" : null,
+                            "isInline" : null,
+                            "items" : [{"rules":{},"styles":{},"element_id":"search_facets_component_1"}],
+                            "root" : null,
+                            "rules" : {},
+                            "styles" : {"height":"100%","padding":"var(--now-static-space--xl)"},
+                            "templateId" : null,
+                            "type" : "flex"
+                          },
+                          "version" : "3.0.0"
+                        }
+                      },
+                      "isHidden" : {
+                        "type" : "JSON_LITERAL",
+                        "value" : null
+                      },
+                      "isHero" : false,
+                      "extensionPoints" : [ ],
+                      "isNonDestructive" : false,
+                      "items" : [ ],
+                      "styles" : { }
+                    } ],
+                    "layout" : {
+                      "default" : {
+                        "children" : null,
+                        "isInline" : null,
+                        "items" : [{"rules":{},"styles":{"background-color":"rgb(var(--now-color--neutral-0))","border-radius":"2px","grid-area":"main"},"element_id":"search_facet_wrapper_Main"}],
+                        "root" : null,
+                        "rules" : null,
+                        "styles" : {"grid-template-rows":"auto","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},
+                        "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                        "type" : "grid"
+                      },
+                      "version" : "3.0.0"
+                    }
+                  },
+                  "isHidden" : {
+                    "type" : "JSON_LITERAL",
+                    "value" : ""
+                  },
+                  "isHero" : false,
+                  "extensionPoints" : [ ],
+                  "isNonDestructive" : false,
+                  "items" : [ ],
+                  "styles" : { }
+                }, {
+                  "elementId" : "container_2_Main",
+                  "elementLabel" : "Main",
+                  "propertyValues" : {
+                    "ariaRegionHeadingLevel" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "1"
+                    },
+                    "hideEmptyStateUi" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : true
+                    },
+                    "ariaRegionName" : {
+                      "type" : "TRANSLATION_LITERAL",
+                      "value" : {
+                        "code" : null,
+                        "message" : "",
+                        "comment" : ""
+                      }
+                    },
+                    "includeAriaHeading" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : false
+                    },
+                    "type" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : "section"
+                    },
+                    "ariaRole" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : ""
+                    }
+                  },
+                  "eventMappings" : [ ],
+                  "slot" : null,
+                  "definition" : {
+                    "id" : "d356d14b6e293a3020a244b63d278d8f",
+                    "type" : "MACROPONENT"
+                  },
+                  "overrides" : {
+                    "composition" : [ {
+                      "elementId" : "search_results_1",
+                      "elementLabel" : "Search results 1",
+                      "propertyValues" : {
+                        "isLoading" : {
+                          "type" : "STATE_BINDING",
+                          "binding" : {
+                            "address" : [ "loading" ]
+                          }
+                        },
+                        "selectedSearchContext" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "[]"
+                        },
+                        "daClientActionContract" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : null
+                        },
+                        "searchResultMetadata" : {
+                          "type" : "DATA_OUTPUT_BINDING",
+                          "binding" : {
+                            "address" : [ "search_composite_data_broker_1", "searchMetadata" ]
+                          }
+                        },
+                        "geniusResults" : {
+                          "type" : "DATA_OUTPUT_BINDING",
+                          "binding" : {
+                            "address" : [ "search_composite_data_broker_1", "geniusResultsTemplates" ]
+                          }
+                        },
+                        "searchResults" : {
+                          "type" : "DATA_OUTPUT_BINDING",
+                          "binding" : {
+                            "address" : [ "search_composite_data_broker_1", "searchResultsTemplates" ]
+                          }
+                        },
+                        "spellCheckFontSize" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "xl"
+                        },
+                        "searchContextConfigId" : {
+                          "type" : "CONTEXT_BINDING",
+                          "binding" : {
+                            "address" : [ "searchContextConfigId" ],
+                            "category" : "props"
+                          }
+                        }
+                      },
+                      "eventMappings" : [ {
+                        "eventMappingId" : "ckhffymddriiaaaabbaaddhhhiitbkiifftwe",
+                        "isConfiguration" : false,
+                        "offRowStorageId" : null,
+                        "sourceEventApiName" : "sn_search_results.SN_SEARCH_RESULTS_CONTAINER#DECLARATIVE_ACTION",
+                        "sourceEventCorrelationId" : null,
+                        "sourceEventDefinition" : {
+                          "apiName" : "sn_search_results.SN_SEARCH_RESULTS_CONTAINER#DECLARATIVE_ACTION",
+                          "id" : null,
+                          "type" : "UXEVENT"
+                        },
+                        "sourceEventSysId" : null,
+                        "targets" : [ {
+                          "broker" : null,
+                          "clientScript" : {
+                            "sysId" : "b449ab1fca157110037c463b6ef35cad"
+                          },
+                          "conditional" : null,
+                          "declarativeAction" : null,
+                          "event" : null,
+                          "operation" : null,
+                          "targetId" : "ckhffymddriiaaaabbbbddhhhiihcdsfmffb",
+                          "type" : "CLIENT_SCRIPT"
+                        } ]
+                      }, {
+                        "eventMappingId" : "ckhffylxxbbaaaaaayddhhhiipvzehhddaad",
+                        "isConfiguration" : false,
+                        "offRowStorageId" : null,
+                        "sourceEventApiName" : "sn_search_results.SN_SEARCH_RESULTS_CONTAINER#SEARCH_EXECUTED",
+                        "sourceEventCorrelationId" : null,
+                        "sourceEventDefinition" : {
+                          "apiName" : "sn_search_results.SN_SEARCH_RESULTS_CONTAINER#SEARCH_EXECUTED",
+                          "id" : null,
+                          "type" : "UXEVENT"
+                        },
+                        "sourceEventSysId" : null,
+                        "targets" : [ {
+                          "broker" : null,
+                          "clientScript" : {
+                            "sysId" : "fc49ab1f7315711085369eaf341dffad"
+                          },
+                          "conditional" : null,
+                          "declarativeAction" : null,
+                          "event" : null,
+                          "operation" : null,
+                          "targetId" : "ckhffylxxccaaaaaazddhhhiiihhhanjgii",
+                          "type" : "CLIENT_SCRIPT"
+                        } ]
+                      }, {
+                        "eventMappingId" : "ckhffylqaqaaaaaawddhhhiihhlccggzdhh",
+                        "isConfiguration" : false,
+                        "offRowStorageId" : null,
+                        "sourceEventApiName" : "sn_search_results.SN_SEARCH_RESULTS_CONTAINER#PAGINATION_BUTTON_CLICKED",
+                        "sourceEventCorrelationId" : null,
+                        "sourceEventDefinition" : {
+                          "apiName" : "sn_search_results.SN_SEARCH_RESULTS_CONTAINER#PAGINATION_BUTTON_CLICKED",
+                          "id" : null,
+                          "type" : "UXEVENT"
+                        },
+                        "sourceEventSysId" : null,
+                        "targets" : [ {
+                          "broker" : null,
+                          "clientScript" : {
+                            "sysId" : "7449ab1f5915711018b3f73cdf5051af"
+                          },
+                          "conditional" : null,
+                          "declarativeAction" : null,
+                          "event" : null,
+                          "operation" : null,
+                          "targetId" : "ckhffylqaqaaaaaaxddhhhiiffqqiigngdd",
+                          "type" : "CLIENT_SCRIPT"
+                        } ]
+                      } ],
+                      "slot" : null,
+                      "definition" : {
+                        "id" : "78580cbc090d816f232d10e954f6dc74",
+                        "type" : "MACROPONENT"
+                      },
+                      "overrides" : null,
+                      "isHidden" : {
+                        "type" : "JSON_LITERAL",
+                        "value" : ""
+                      },
+                      "isHero" : false,
+                      "extensionPoints" : [ ],
+                      "isNonDestructive" : false,
+                      "items" : [ ],
+                      "styles" : { }
+                    } ],
+                    "layout" : {
+                      "default" : {
+                        "children" : null,
+                        "isInline" : null,
+                        "items" : [{"rules":{},"styles":{},"element_id":"search_results_1"}],
+                        "root" : null,
+                        "rules" : {},
+                        "styles" : {"height":"100%","flex-direction":"column","display":"flex","padding":"var(--now-static-space--xl)"},
+                        "templateId" : null,
+                        "type" : "flex"
+                      },
+                      "version" : "3.0.0"
+                    }
+                  },
+                  "isHidden" : {
+                    "type" : "JSON_LITERAL",
+                    "value" : null
+                  },
+                  "isHero" : false,
+                  "extensionPoints" : [ ],
+                  "isNonDestructive" : false,
+                  "items" : [ ],
+                  "styles" : { }
+                } ],
+                "layout" : {
+                  "default" : {
+                    "children" : null,
+                    "isInline" : null,
+                    "items" : [{"rules":{},"styles":{"grid-area":"sidebar1"},"element_id":"search_facet_wrapper"},{"rules":{},"styles":{"background-color":"rgb(var(--now-color--neutral-0))","border-radius":"2px","grid-area":"main"},"element_id":"container_2_Main"}],
+                    "root" : null,
+                    "rules" : null,
+                    "styles" : {"grid-template-rows":"auto","grid-template-columns":"3fr minmax(0, 9fr)","grid-template-areas":"\"sidebar1 main\"","grid-gap":"2rem","height":"100%"},
+                    "templateId" : "7579b58153071010e6bcddeeff7b1290",
+                    "type" : "grid"
+                  },
+                  "version" : "3.0.0"
+                }
+              },
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : ""
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : {
+                "margin-top" : "var(--now-static-space--3xl)"
+              }
+            } ],
+            "layout" : {
+              "default" : {
+                "children" : null,
+                "isInline" : null,
+                "items" : [{"rules":{},"styles":{},"element_id":"tab_filter_component_1"},{"rules":{},"styles":{},"element_id":"container_2"}],
+                "root" : null,
+                "rules" : {},
+                "styles" : {"height":"100%","flex-direction":"column","display":"flex"},
+                "templateId" : null,
+                "type" : "flex"
+              },
+              "version" : "3.0.0"
+            }
+          },
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : null
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : {
+            "height" : "100%"
+          }
+        } ],
+        "layout" : {
+          "default" : {
+            "children" : null,
+            "isInline" : null,
+            "items" : [{"rules":{},"styles":{"grid-area":"main"},"element_id":"container_1_Main"}],
+            "root" : null,
+            "rules" : null,
+            "styles" : {"grid-template-rows":"auto","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},
+            "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+            "type" : "grid"
+          },
+          "version" : "3.0.0"
+        }
+      },
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : ""
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ ],
+      "styles" : {
+        "width" : "90rem",
+        "margin" : "var(--now-static-space--xxl) auto 0"
+      }
+    } ],
+    "layout" : {
+      "default" : {
+        "children" : null,
+        "isInline" : null,
+        "items" : [{"rules":{},"styles":{},"element_id":"stylized_container_1"},{"rules":{},"styles":{},"element_id":"container_1"}],
+        "root" : null,
+        "rules" : {},
+        "styles" : {"height":"100%","flex-direction":"column","display":"flex"},
+        "templateId" : null,
+        "type" : "flex"
+      },
+      "version" : "3.0.0"
+    }
+  },
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : {
+    "height" : "100%"
+  }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ {
+  "definition" : {
+    "id" : "0cac8b3073ad101052c7d5fdbdf6a78a",
+    "type" : "COMPOSITE"
+  },
+  "dependencies" : { },
+  "elementId" : "search_composite_data_broker_1",
+  "elementLabel" : "Search Composite Data Broker 1",
+  "eventMappings" : [ {
+    "eventMappingId" : "ckhffysykeaaaacciiddhhhiiddzxaaaadddq",
+    "isConfiguration" : false,
+    "offRowStorageId" : null,
+    "sourceEventApiName" : "sn_uxf.DATA_FETCH_INITIATED",
+    "sourceEventCorrelationId" : null,
+    "sourceEventDefinition" : {
+      "apiName" : "sn_uxf.DATA_FETCH_INITIATED",
+      "id" : null,
+      "type" : "UXEVENT"
+    },
+    "sourceEventSysId" : null,
+    "targets" : [ {
+      "broker" : null,
+      "clientScript" : null,
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : {
+        "apiName" : "sn_uxf.MACROPONENT_STATE_UPDATE_REQUESTED",
+        "payload" : {
+          "type" : "JSON_LITERAL",
+          "value" : {
+            "propName" : "loading",
+            "value" : "true"
+          }
+        },
+        "sysId" : "32408b42ff7a10109046e490703bf176"
+      },
+      "operation" : null,
+      "targetId" : "ckhffysykfaaaaccjjddhhhiiddxddbonlbb",
+      "type" : "EVENT"
+    } ]
+  }, {
+    "eventMappingId" : "aaatddhggymzmbckbvgcwpdaaanbhkp",
+    "isConfiguration" : false,
+    "offRowStorageId" : null,
+    "sourceEventApiName" : "sn_uxf.DATA_FETCH_SUCCEEDED",
+    "sourceEventCorrelationId" : null,
+    "sourceEventDefinition" : {
+      "apiName" : "sn_uxf.DATA_FETCH_SUCCEEDED",
+      "id" : null,
+      "type" : "UXEVENT"
+    },
+    "sourceEventSysId" : null,
+    "targets" : [ {
+      "broker" : null,
+      "clientScript" : {
+        "sysId" : "b849ab1fc01571100a35b5962ee9faae"
+      },
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : null,
+      "operation" : null,
+      "targetId" : "ckbvnqxdtaaaabbffddhggyqmhqbbpamp",
+      "type" : "CLIENT_SCRIPT"
+    } ]
+  } ],
+  "inputValues" : {
+    "searchEvamConfigId" : {
+      "type" : "JSON_LITERAL",
+      "value" : "80eb579d53671010968addeeff7b1215"
+    },
+    "searchContextConfigId" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "searchContextConfigId" ],
+        "category" : "props"
+      }
+    },
+    "searchTerm" : {
+      "type" : "STATE_BINDING",
+      "binding" : {
+        "address" : [ "searchTerm" ]
+      }
+    },
+    "facetFilters" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "facetFilters" ],
+        "category" : "props"
+      }
+    },
+    "searchFilters" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "searchFilters" ],
+        "category" : "props"
+      }
+    },
+    "disableSpellCheck" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "paginationToken" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "paginationToken" ],
+        "category" : "props"
+      }
+    },
+    "locale" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "sortOptions" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    }
+  },
+  "readEvaluationMode" : "EAGER"
+} ]</data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"rules":{},"styles":{"margin-bottom":"4rem","grid-area":"wrapper"},"element_id":"624eb0cbc3a71010574c42583c40dd2d_wrapper"}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"background-color":"rgb(var(--now-avatar--background-color))","grid-template-rows":"minmax(400px, auto)","grid-template-columns":"1fr","grid-template-areas":"\"wrapper\"","grid-gap":"0px","height":"100%","margin":"var(--now-static-space--lg)","margin-top":"var(--now-static-space--xs)","margin-right":"var(--now-static-space--3xl)","margin-left":"var(--now-static-space--3xl)","padding":"var(--now-static-space--lg)","background":"rgb(var(--now-color_surface--brand-1))","border-color":"rgb(var(--now-color--secondary-2))","border-width":"var(--now-static-space--lg)","border-style":"double"},
+    "templateId" : "b09f467615f39010f87783c65626d825",
+    "type" : "grid"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Search Page</name>
+        <output_prop_mapping/>
+        <props>[ {
+  "name" : "paginationToken",
+  "label" : "paginationToken",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "searchFilters",
+  "label" : "searchFilters",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "facetFilters",
+  "label" : "facetFilters",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "disableSpellCheck",
+  "label" : "disableSpellCheck",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "searchContextConfigId",
+  "label" : "searchContextConfigId",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : null,
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "searchTerm",
+  "label" : "searchTerm",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : null,
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+} ]</props>
+        <required_translations>[ {
+  "message" : "Collapse container to hide contents",
+  "comment" : ""
+}, {
+  "message" : "Expand container to show contents",
+  "comment" : ""
+}, {
+  "message" : "Filters",
+  "comment" : ""
+}, {
+  "message" : "Search",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ {
+  "name" : "loading",
+  "label" : "loading",
+  "fieldType" : "boolean",
+  "valueType" : "boolean",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}, {
+  "name" : "searchTerm",
+  "label" : "searchTerm",
+  "fieldType" : "string",
+  "valueType" : "string",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "CONTEXT_BINDING",
+    "binding" : {
+      "address" : [ "searchTerm" ],
+      "category" : "props"
+    }
+  }
+} ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-21 06:54:28</sys_created_on>
+        <sys_id>f049ab1f621571101e641f4e8f716faf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Search Page</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_macroponent_f049ab1f621571101e641f4e8f716faf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-09 08:12:31</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=f049ab1f621571101e641f4e8f716faf"/>
+</record_update>

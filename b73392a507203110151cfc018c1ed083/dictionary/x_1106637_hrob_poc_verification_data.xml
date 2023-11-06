@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="89fcab9d07a53110151cfc018c1ed090" label="Verification Data" max_length="40" name="x_1106637_hrob_poc_verification_data" text_index="true" type="collection">
+        <element label="Comment" max_length="200" name="comment" type="string"/>
+        <element label="Comment" max_length="40" name="comment_background" type="string"/>
+        <element label="Name" max_length="150" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Onboarding Start Date" max_length="40" name="onboarding_date" type="string"/>
+        <element label="Onboarding Status" max_length="40" name="onboarding_status" type="string"/>
+        <element label="Process" max_length="40" name="process" type="string"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Upload File" max_length="40" name="upload_file_background" type="file_attachment"/>
+        <element label="Upload File" max_length="40" name="upload_file_medical" type="file_attachment"/>
+        <element label="Verification Status" max_length="40" name="verification_status" type="string"/>
+    </element>
+</database>

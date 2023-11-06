@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7a90e82d07343110151cfc018c1ed05a" label="HROB Finance" max_length="40" name="x_1106637_hrob_poc_hrob_finance" text_index="true" type="collection">
+        <element label="Comment" max_length="40" name="comment" type="string"/>
+        <element label="Name" max_length="200" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Process" max_length="40" name="process" type="string"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Start Time" max_length="40" name="start_time" type="glide_date_time" use_dynamic_default="true"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="upload" max_length="40" name="upload" type="file_attachment"/>
+    </element>
+</database>

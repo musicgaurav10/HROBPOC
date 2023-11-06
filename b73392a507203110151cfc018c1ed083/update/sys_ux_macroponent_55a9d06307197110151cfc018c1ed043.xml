@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "catalog_item_1",
+  "elementLabel" : "Catalog Item 1",
+  "propertyValues" : {
+    "showRequestForHeader" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "propagateNotifications" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "sysId" : {
+      "type" : "JSON_LITERAL",
+      "value" : "87d9d0a307197110151cfc018c1ed0e9"
+    },
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "",
+        "comment" : ""
+      }
+    },
+    "headingOnlyVisibleToScreenReaders" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "interceptNotifications" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "hideOptionsLabel" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "referrer" : {
+      "type" : "JSON_LITERAL",
+      "value" : "default"
+    },
+    "submitPosition" : {
+      "type" : "JSON_LITERAL",
+      "value" : "right"
+    },
+    "headerLevel" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "engagementChannel" : {
+      "type" : "JSON_LITERAL",
+      "value" : "default"
+    },
+    "requestedForId" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "bare" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "scrollable" : {
+      "type" : "JSON_LITERAL",
+      "value" : "none"
+    }
+  },
+  "eventMappings" : [ {
+    "eventMappingId" : "clmullddopaadfpddffhhwuaahcchhgggz",
+    "isConfiguration" : false,
+    "offRowStorageId" : null,
+    "sourceEventApiName" : "sn_sc_record_form.SN_CATALOG_FORM_CONNECTED#REQUEST_GENERATED",
+    "sourceEventCorrelationId" : null,
+    "sourceEventDefinition" : {
+      "apiName" : "sn_sc_record_form.SN_CATALOG_FORM_CONNECTED#REQUEST_GENERATED",
+      "id" : null,
+      "type" : "UXEVENT"
+    },
+    "sourceEventSysId" : null,
+    "targets" : [ {
+      "broker" : null,
+      "clientScript" : null,
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : {
+        "apiName" : "x_1106637_hrob_poc.NAV_ITEM_SELECTED_RELAY_55a9d06307197110151cfc018c1ed043",
+        "payload" : {
+          "type" : "MAP_CONTAINER",
+          "container" : {
+            "route" : {
+              "type" : "JSON_LITERAL",
+              "value" : "previous-employee-details"
+            },
+            "fields" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            },
+            "params" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            },
+            "redirect" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            },
+            "passiveNavigation" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            },
+            "title" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            },
+            "multiInstField" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            },
+            "targetRoute" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            },
+            "external" : null
+          }
+        },
+        "sysId" : "29f38e370791f110151cfc018c1ed07e"
+      },
+      "operation" : null,
+      "targetId" : "clmullddopaadfqddffhhwafytfddiiu",
+      "type" : "EVENT"
+    } ]
+  } ],
+  "slot" : null,
+  "definition" : {
+    "id" : "afeef20635001010f877265d86f080df",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "progress_bar_1",
+  "elementLabel" : "Progress bar 1",
+  "propertyValues" : {
+    "size" : {
+      "type" : "JSON_LITERAL",
+      "value" : "md"
+    },
+    "max" : {
+      "type" : "JSON_LITERAL",
+      "value" : "1"
+    },
+    "pathType" : {
+      "type" : "JSON_LITERAL",
+      "value" : "initial"
+    },
+    "configAria" : {
+      "type" : "MAP_CONTAINER",
+      "container" : { }
+    },
+    "value" : {
+      "type" : "JSON_LITERAL",
+      "value" : 0.5
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "1e035d1ebdcb47612f5b00382e2c3474",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "rich_text_1",
+  "elementLabel" : "Rich text 1",
+  "propertyValues" : {
+    "html" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "&lt;p&gt;&lt;span style=\"text-decoration: underline; font-size: 24pt; color: #ffffff; background-color: #0e46b4;\"&gt;&lt;strong&gt;CANDIDATE DETAILS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+        "comment" : ""
+      }
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "2d56f06d55f46bbd4e79b5e624beb940",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <description/>
+        <dispatched_events>29f38e370791f110151cfc018c1ed07e</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"element_id":"rich_text_1","styles":{"background":"rgb(var(--now-color_background--primary))","align-self":"center"}},{"element_id":"progress_bar_1","styles":{"margin":"var(--now-static-space--lg)","margin-top":"var(--now-static-space--xxs)","margin-right":"var(--now-static-space--3xl)","margin-left":"var(--now-static-space--3xl)","background":"rgb(var(--now-color--neutral-21))","border-color":"RGB(var(--now-color--neutral-5))","border-width":"var(--now-static-space--xs)","border-style":"groove","margin-bottom":"var(--now-static-space--xxs)"}},{"element_id":"catalog_item_1","styles":{"margin":"var(--now-static-space--lg)","margin-top":"var(--now-static-space--xxs)","margin-right":"var(--now-static-space--3xl)","margin-left":"var(--now-static-space--3xl)","background":"rgb(var(--now-color_surface--brand-1))","border-color":"rgb(var(--now-color_surface--brand-3))","border-width":"var(--now-static-space--xxl)","border-style":"solid"}}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"flex-direction":"column","border-color":"rgb(var(--now-color--secondary-2))","border-width":"var(--now-static-space--lg)","border-style":"double","background":"rgb(var(--now-color_background--primary))","margin":"var(--now-static-space--3xl)","margin-top":"var(--now-static-space--xxs)"},
+    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+    "type" : "flex"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Education Details default</name>
+        <output_prop_mapping/>
+        <props>[ ]</props>
+        <required_translations>[ {
+  "message" : "&lt;p&gt;&lt;span style=\"text-decoration: underline; font-size: 24pt; color: #ffffff; background-color: #0e46b4;\"&gt;&lt;strong&gt;CANDIDATE DETAILS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-21 10:25:48</sys_created_on>
+        <sys_id>55a9d06307197110151cfc018c1ed043</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name>Education Details default</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_macroponent_55a9d06307197110151cfc018c1ed043</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 09:39:01</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=55a9d06307197110151cfc018c1ed043"/>
+</record_update>

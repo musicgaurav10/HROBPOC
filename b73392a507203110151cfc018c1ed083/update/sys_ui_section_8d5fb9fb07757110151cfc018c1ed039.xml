@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Onboarding Status" section_id="8d5fb9fb07757110151cfc018c1ed039" sys_domain="global" table="x_1106637_hrob_poc_initiate_background_verification" version="3" view="Workspace-HROB-POC-Login-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>onboarding_start_date</element>
+            <position>0</position>
+            <sys_created_by>HROB_HR</sys_created_by>
+            <sys_created_on>2023-10-17 08:59:57</sys_created_on>
+            <sys_id>4d5fb9fb07757110151cfc018c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Status" display_value="Onboarding Status" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="411ff57b2a757110a092369f883e6760">8d5fb9fb07757110151cfc018c1ed039</sys_ui_section>
+            <sys_updated_by>HROB_HR</sys_updated_by>
+            <sys_updated_on>2023-10-17 08:59:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>onboarding_status</element>
+            <position>1</position>
+            <sys_created_by>HROB_HR</sys_created_by>
+            <sys_created_on>2023-10-17 08:59:57</sys_created_on>
+            <sys_id>c55ff9fb07757110151cfc018c1ed07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Onboarding Status" display_value="Onboarding Status" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="411ff57b2a757110a092369f883e6760">8d5fb9fb07757110151cfc018c1ed039</sys_ui_section>
+            <sys_updated_by>HROB_HR</sys_updated_by>
+            <sys_updated_on>2023-10-17 08:59:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Onboarding Status</caption>
+            <header>false</header>
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>HROB_HR</sys_created_by>
+            <sys_created_on>2023-10-17 08:59:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d5fb9fb07757110151cfc018c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1106637_hrob_poc_initiate_background_verification</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_ui_section_8d5fb9fb07757110151cfc018c1ed039</sys_update_name>
+            <sys_updated_by>HROB_HR</sys_updated_by>
+            <sys_updated_on>2023-10-17 08:59:57</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace HROB POC Login 0" name="Workspace-HROB-POC-Login-0">411ff57b2a757110a092369f883e6760</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

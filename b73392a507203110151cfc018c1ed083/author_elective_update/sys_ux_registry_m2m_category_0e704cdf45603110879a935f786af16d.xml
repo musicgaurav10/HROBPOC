@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="HROB-POC HR">02704cdf6660311006519d45cdeb926c</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 07:10:16</sys_created_on>
+        <sys_id>0e704cdf45603110879a935f786af16d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_0e704cdf45603110879a935f786af16d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 07:10:16</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_registry_m2m_category_0e704cdf45603110879a935f786af16d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><page_registry display_value="HROB-POC HR">02704cdf6660311006519d45cdeb926c</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-14 07:10:16</sys_created_on><sys_id>0e704cdf45603110879a935f786af16d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_registry_m2m_category_0e704cdf45603110879a935f786af16d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-14 07:10:16</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>2066421291</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7d81e6a307103110151cfc018c1ed001</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-08-03 03:16:41</sys_created_on>
+        <sys_id>c044167f07f57110151cfc018c1ed086</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>189b965c1a80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application Category M2M</type>
+        <update_guid>8044167fbaf5711010a0218379762386</update_guid>
+        <update_guid_history>8044167fbaf5711010a0218379762386:2066421291</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 10:31:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>073436e4477947d88ed5d531ce48b044</sys_id>
+        <sys_metadata>0e704cdf45603110879a935f786af16d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_0e704cdf45603110879a935f786af16d</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_0e704cdf45603110879a935f786af16d">c044167f07f57110151cfc018c1ed086</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 10:31:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

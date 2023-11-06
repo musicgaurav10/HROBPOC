@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="HROB-Demo">e9a251ae7e5531105762db4d72867d95</page>
+        <required_translations>[ {
+  "message" : "New Candidate Profile Details",
+  "comment" : ""
+}, {
+  "message" : "New Dasboard_Data",
+  "comment" : ""
+}, {
+  "message" : "New Dashboard Candidate Provisioning",
+  "comment" : ""
+}, {
+  "message" : "New Dashboard Medical verification",
+  "comment" : ""
+}, {
+  "message" : "New Education Details",
+  "comment" : ""
+}, {
+  "message" : "New Employee Information",
+  "comment" : ""
+}, {
+  "message" : "New Employee full details",
+  "comment" : ""
+}, {
+  "message" : "New HROB Finance",
+  "comment" : ""
+}, {
+  "message" : "New HROB_HR",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Initiate Background Verification",
+  "comment" : ""
+}, {
+  "message" : "New Initiate Medical Verification",
+  "comment" : ""
+}, {
+  "message" : "New Initiate Provisioning",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New Job Position",
+  "comment" : ""
+}, {
+  "message" : "New Offer Letter Dashboard",
+  "comment" : ""
+}, {
+  "message" : "New Offerletter table",
+  "comment" : ""
+}, {
+  "message" : "New Personal Details Dashboard",
+  "comment" : ""
+}, {
+  "message" : "New Previous Employee Details",
+  "comment" : ""
+}, {
+  "message" : "New RAP_Allocation_Request",
+  "comment" : ""
+}, {
+  "message" : "New Reference ",
+  "comment" : ""
+}, {
+  "message" : "New Resource Details for RPA bot",
+  "comment" : ""
+}, {
+  "message" : "New Sample Data",
+  "comment" : ""
+}, {
+  "message" : "New Testing",
+  "comment" : ""
+}, {
+  "message" : "New Testing table",
+  "comment" : ""
+}, {
+  "message" : "New Upload Verification Dashboard",
+  "comment" : ""
+}, {
+  "message" : "New Verification Status",
+  "comment" : ""
+}, {
+  "message" : "New complete reference verification",
+  "comment" : ""
+}, {
+  "message" : "New dashboard hr",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-18 12:00:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>eda251ae6f5531105c8340db7bacf898</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_page_property_eda251ae6f5531105c8340db7bacf898</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-18 12:01:42</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1106637_hrob_poc.e9a251ae7e5531105762db4d72867d95.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New complete reference verification"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_cprofile_picture_omplete_reference_verification","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_cprofile_picture_omplete_reference_verification","canCreate":true}}},{"label":{"translatable":true,"message":"New Dasboard_Data"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_dasboard_data","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_dasboard_data","canCreate":true}}},{"label":{"translatable":true,"message":"New Dashboard Candidate Provisioning"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_dashboard_candidate_provisioning","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_dashboard_candidate_provisioning","canCreate":true}}},{"label":{"translatable":true,"message":"New dashboard hr"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_dashboard_hr","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_dashboard_hr","canCreate":true}}},{"label":{"translatable":true,"message":"New Dashboard Medical verification"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_dashboard_medical_verification","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_dashboard_medical_verification","canCreate":true}}},{"label":{"translatable":true,"message":"New Education Details"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_education_details","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_education_details","canCreate":true}}},{"label":{"translatable":true,"message":"New Employee full details"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_employee_full_details","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_employee_full_details","canCreate":true}}},{"label":{"translatable":true,"message":"New Employee Information"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_employee_information","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_employee_information","canCreate":true}}},{"label":{"translatable":true,"message":"New HROB Finance"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_hrob_finance","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_hrob_finance","canCreate":true}}},{"label":{"translatable":true,"message":"New HROB_HR"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_hrob_hr","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_hrob_hr","canCreate":true}}},{"label":{"translatable":true,"message":"New Initiate Background Verification"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_initiate_background_verification","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_initiate_background_verification","canCreate":true}}},{"label":{"translatable":true,"message":"New Initiate Medical Verification"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_initiate_medical_verification","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_initiate_medical_verification","canCreate":true}}},{"label":{"translatable":true,"message":"New Initiate Provisioning"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_initiate_provisioning","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_initiate_provisioning","canCreate":true}}},{"label":{"translatable":true,"message":"New Job Position"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_job_position","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_job_position","canCreate":true}}},{"label":{"translatable":true,"message":"New Offer Letter Dashboard"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_offer_letter_dashboard","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_offer_letter_dashboard","canCreate":true}}},{"label":{"translatable":true,"message":"New Offerletter table"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_offerletter_table","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_offerletter_table","canCreate":true}}},{"label":{"translatable":true,"message":"New Personal Details Dashboard"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_personal_details_dashboard","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_personal_details_dashboard","canCreate":true}}},{"label":{"translatable":true,"message":"New Previous Employee Details"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_previous_employee_details","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_previous_employee_details","canCreate":true}}},{"label":{"translatable":true,"message":"New RAP_Allocation_Request"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_rap_allocation_request","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_rap_allocation_request","canCreate":true}}},{"label":{"translatable":true,"message":"New Reference "},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_reference","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_reference","canCreate":true}}},{"label":{"translatable":true,"message":"New Resource Details for RPA bot"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_resource_details_for_rpa_bot","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_resource_details_for_rpa_bot","canCreate":true}}},{"label":{"translatable":true,"message":"New Sample Data"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_sample_data","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_sample_data","canCreate":true}}},{"label":{"translatable":true,"message":"New Testing"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_testing","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_testing","canCreate":true}}},{"label":{"translatable":true,"message":"New Testing table"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_testing_table","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_testing_table","canCreate":true}}},{"label":{"translatable":true,"message":"New Upload Verification Dashboard"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_upload_verification_dashboard","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_upload_verification_dashboard","canCreate":true}}},{"label":{"translatable":true,"message":"New Verification Status"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_verification_status","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_verification_status","canCreate":true}}},{"label":{"translatable":true,"message":"New Candidate Profile Details"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_candidate_profile_details","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_candidate_profile_details","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=eda251ae6f5531105c8340db7bacf898"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_page_property_eda251ae6f5531105c8340db7bacf898</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="HROB-Demo">e9a251ae7e5531105762db4d72867d95</page><required_translations>[ {
+  "message" : "New Candidate Profile Details",
+  "comment" : ""
+}, {
+  "message" : "New Dasboard_Data",
+  "comment" : ""
+}, {
+  "message" : "New Dashboard Candidate Provisioning",
+  "comment" : ""
+}, {
+  "message" : "New Dashboard Medical verification",
+  "comment" : ""
+}, {
+  "message" : "New Education Details",
+  "comment" : ""
+}, {
+  "message" : "New Employee Information",
+  "comment" : ""
+}, {
+  "message" : "New Employee full details",
+  "comment" : ""
+}, {
+  "message" : "New HROB Finance",
+  "comment" : ""
+}, {
+  "message" : "New HROB_HR",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Initiate Background Verification",
+  "comment" : ""
+}, {
+  "message" : "New Initiate Medical Verification",
+  "comment" : ""
+}, {
+  "message" : "New Initiate Provisioning",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New Job Position",
+  "comment" : ""
+}, {
+  "message" : "New Offer Letter Dashboard",
+  "comment" : ""
+}, {
+  "message" : "New Offerletter table",
+  "comment" : ""
+}, {
+  "message" : "New Personal Details Dashboard",
+  "comment" : ""
+}, {
+  "message" : "New Previous Employee Details",
+  "comment" : ""
+}, {
+  "message" : "New RAP_Allocation_Request",
+  "comment" : ""
+}, {
+  "message" : "New Reference ",
+  "comment" : ""
+}, {
+  "message" : "New Resource Details for RPA bot",
+  "comment" : ""
+}, {
+  "message" : "New Sample Data",
+  "comment" : ""
+}, {
+  "message" : "New Testing",
+  "comment" : ""
+}, {
+  "message" : "New Testing table",
+  "comment" : ""
+}, {
+  "message" : "New Upload Verification Dashboard",
+  "comment" : ""
+}, {
+  "message" : "New Verification Status",
+  "comment" : ""
+}, {
+  "message" : "New complete reference verification",
+  "comment" : ""
+}, {
+  "message" : "New dashboard hr",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-18 12:00:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>eda251ae6f5531105c8340db7bacf898</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_page_property_eda251ae6f5531105c8340db7bacf898</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-18 12:01:42</sys_updated_on><type>json</type><unique_name>x_1106637_hrob_poc.e9a251ae7e5531105762db4d72867d95.root.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New complete reference verification"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_cprofile_picture_omplete_reference_verification","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_cprofile_picture_omplete_reference_verification","canCreate":true}}},{"label":{"translatable":true,"message":"New Dasboard_Data"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_dasboard_data","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_dasboard_data","canCreate":true}}},{"label":{"translatable":true,"message":"New Dashboard Candidate Provisioning"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_dashboard_candidate_provisioning","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_dashboard_candidate_provisioning","canCreate":true}}},{"label":{"translatable":true,"message":"New dashboard hr"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_dashboard_hr","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_dashboard_hr","canCreate":true}}},{"label":{"translatable":true,"message":"New Dashboard Medical verification"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_dashboard_medical_verification","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_dashboard_medical_verification","canCreate":true}}},{"label":{"translatable":true,"message":"New Education Details"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_education_details","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_education_details","canCreate":true}}},{"label":{"translatable":true,"message":"New Employee full details"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_employee_full_details","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_employee_full_details","canCreate":true}}},{"label":{"translatable":true,"message":"New Employee Information"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_employee_information","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_employee_information","canCreate":true}}},{"label":{"translatable":true,"message":"New HROB Finance"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_hrob_finance","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_hrob_finance","canCreate":true}}},{"label":{"translatable":true,"message":"New HROB_HR"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_hrob_hr","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_hrob_hr","canCreate":true}}},{"label":{"translatable":true,"message":"New Initiate Background Verification"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_initiate_background_verification","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_initiate_background_verification","canCreate":true}}},{"label":{"translatable":true,"message":"New Initiate Medical Verification"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_initiate_medical_verification","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_initiate_medical_verification","canCreate":true}}},{"label":{"translatable":true,"message":"New Initiate Provisioning"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_initiate_provisioning","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_initiate_provisioning","canCreate":true}}},{"label":{"translatable":true,"message":"New Job Position"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_job_position","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_job_position","canCreate":true}}},{"label":{"translatable":true,"message":"New Offer Letter Dashboard"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_offer_letter_dashboard","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_offer_letter_dashboard","canCreate":true}}},{"label":{"translatable":true,"message":"New Offerletter table"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_offerletter_table","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_offerletter_table","canCreate":true}}},{"label":{"translatable":true,"message":"New Personal Details Dashboard"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_personal_details_dashboard","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_personal_details_dashboard","canCreate":true}}},{"label":{"translatable":true,"message":"New Previous Employee Details"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_previous_employee_details","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_previous_employee_details","canCreate":true}}},{"label":{"translatable":true,"message":"New RAP_Allocation_Request"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_rap_allocation_request","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_rap_allocation_request","canCreate":true}}},{"label":{"translatable":true,"message":"New Reference "},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_reference","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_reference","canCreate":true}}},{"label":{"translatable":true,"message":"New Resource Details for RPA bot"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_resource_details_for_rpa_bot","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_resource_details_for_rpa_bot","canCreate":true}}},{"label":{"translatable":true,"message":"New Sample Data"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_sample_data","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_sample_data","canCreate":true}}},{"label":{"translatable":true,"message":"New Testing"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_testing","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_testing","canCreate":true}}},{"label":{"translatable":true,"message":"New Testing table"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_testing_table","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_testing_table","canCreate":true}}},{"label":{"translatable":true,"message":"New Upload Verification Dashboard"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_upload_verification_dashboard","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_upload_verification_dashboard","canCreate":true}}},{"label":{"translatable":true,"message":"New Verification Status"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_verification_status","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_verification_status","canCreate":true}}},{"label":{"translatable":true,"message":"New Candidate Profile Details"},"routeInfo":{"route":"record","fields":{"table":"x_1106637_hrob_poc_candidate_profile_details","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1106637_hrob_poc_candidate_profile_details","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=eda251ae6f5531105c8340db7bacf898"/></record_update>]]></payload>
+        <payload_hash>1625339563</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-18 12:01:42</sys_created_on>
+        <sys_id>c1d29dae07553110151cfc018c1ed070</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aa82af7df0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-18 12:01:42</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>49d29daefb553110e9a149443fe32e6f</update_guid>
+        <update_guid_history>49d29daefb553110e9a149443fe32e6f:1625339563,cdd29dae6a553110f04f23450bd1676d:-1795844305</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 10:28:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>44fe27d78dda478e96912fbb8e183a24</sys_id>
+        <sys_metadata>eda251ae6f5531105c8340db7bacf898</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_eda251ae6f5531105c8340db7bacf898</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_eda251ae6f5531105c8340db7bacf898">c1d29dae07553110151cfc018c1ed070</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 10:28:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

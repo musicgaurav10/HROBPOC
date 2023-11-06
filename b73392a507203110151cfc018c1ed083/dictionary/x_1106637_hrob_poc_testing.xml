@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f8ff634807747110151cfc018c1ed092" label="Testing" max_length="40" name="x_1106637_hrob_poc_testing" text_index="true" type="collection">
+        <element label="Dob" max_length="40" name="dob" type="string"/>
+        <element label="FirstName" max_length="40" name="firstname" type="string"/>
+        <element label="Income" max_length="40" name="income" type="integer"/>
+        <element label="LastName" max_length="40" name="lastname" type="string"/>
+        <element label="PhoneNumber" max_length="40" name="phonenumber" type="phone_number_e164"/>
+    </element>
+</database>

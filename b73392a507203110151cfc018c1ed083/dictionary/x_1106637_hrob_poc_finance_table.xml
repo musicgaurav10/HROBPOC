@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="48c0236b07a97110151cfc018c1ed021" label="Finance Table" max_length="40" name="x_1106637_hrob_poc_finance_table" text_index="true" type="collection">
+        <element label="Candidate ID" max_length="40" name="candidate_id" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Process" max_length="40" name="process" type="string"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_date"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

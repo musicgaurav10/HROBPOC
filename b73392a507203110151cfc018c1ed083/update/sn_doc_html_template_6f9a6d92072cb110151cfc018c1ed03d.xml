@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_doc_html_template">
+    <sn_doc_html_template action="INSERT_OR_UPDATE">
+        <acknowledgement_text/>
+        <active>true</active>
+        <category/>
+        <custom_font/>
+        <footer_image/>
+        <footer_image_height>50</footer_image_height>
+        <footer_image_position>CENTER</footer_image_position>
+        <footnote/>
+        <footnote_position>RIGHT</footnote_position>
+        <footnote_vertical_position>BELOW</footnote_vertical_position>
+        <header_image/>
+        <header_image_height>50</header_image_height>
+        <header_image_position>CENTER</header_image_position>
+        <html_script_body><![CDATA[<p>&nbsp;</p>
+<h1 class="heading">Appointment Letter</h1>
+<div class="container">
+<div>
+<p><strong>FIRST_NAME MIDDLE_NAME LAST_NAME</strong></p>
+<p>STREET_ADDRESS CITY STATE ZIP_CODE COUNTRY</p>
+<br /><br />
+<p class="lineHeight">Dear <strong>FIRST_NAME MIDDLE_NAME LAST_NAME</strong></p>
+<p>we are delighted to offer you the position of <strong>POSITION_NAME</strong> at Persistent Systems.</p>
+<p>The terms and conditions of your employment are outlined as below.</p>
+<br /><br />
+<h3 class="lineHeight"><strong>DATE OF JOINING AND REPORTING</strong></h3>
+<p><strong>1. Start date : JOINING_DATE</strong></p>
+<p><strong>2. Location:</strong> Your initial work location will be <strong>LOCATION</strong></p>
+<br />
+<h3 class="subHeading"><strong>REMUNERATION</strong></h3>
+</div>
+</div>]]></html_script_body>
+        <language>en</language>
+        <left_right_margin>36</left_right_margin>
+        <name>HTML offer letter</name>
+        <page_number_config/>
+        <page_size>LETTER</page_size>
+        <set_signing_order>true</set_signing_order>
+        <signing_type>servicenow_sign</signing_type>
+        <source_template/>
+        <state>draft</state>
+        <sys_class_name>sn_doc_html_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-11 12:23:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6f9a6d92072cb110151cfc018c1ed03d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>HTML offer letter</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sn_doc_html_template_6f9a6d92072cb110151cfc018c1ed03d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 07:41:10</sys_updated_on>
+        <table>task</table>
+        <toc_config/>
+        <top_bottom_margin>72</top_bottom_margin>
+        <user_criteria/>
+    </sn_doc_html_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=6f9a6d92072cb110151cfc018c1ed03d"/>
+</record_update>

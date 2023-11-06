@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "catalog_item_1",
+  "elementLabel" : "Catalog Item 1",
+  "propertyValues" : {
+    "showRequestForHeader" : {
+      "type" : "JSON_LITERAL",
+      "value" : "true"
+    },
+    "propagateNotifications" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "sysId" : {
+      "type" : "JSON_LITERAL",
+      "value" : "a3e43c7b0759b110151cfc018c1ed0e2"
+    },
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "",
+        "comment" : ""
+      }
+    },
+    "headingOnlyVisibleToScreenReaders" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "interceptNotifications" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "hideOptionsLabel" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "referrer" : {
+      "type" : "JSON_LITERAL",
+      "value" : "default"
+    },
+    "submitPosition" : {
+      "type" : "JSON_LITERAL",
+      "value" : "right"
+    },
+    "headerLevel" : {
+      "type" : "JSON_LITERAL",
+      "value" : "1"
+    },
+    "engagementChannel" : {
+      "type" : "JSON_LITERAL",
+      "value" : "default"
+    },
+    "requestedForId" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "bare" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "scrollable" : {
+      "type" : "JSON_LITERAL",
+      "value" : "none"
+    }
+  },
+  "eventMappings" : [ {
+    "eventMappingId" : "clmynmhhpcaambbkddffhhwhrkzaadihh",
+    "isConfiguration" : false,
+    "offRowStorageId" : null,
+    "sourceEventApiName" : "sn_sc_record_form.SN_CATALOG_FORM_CONNECTED#REQUEST_GENERATED",
+    "sourceEventCorrelationId" : null,
+    "sourceEventDefinition" : {
+      "apiName" : "sn_sc_record_form.SN_CATALOG_FORM_CONNECTED#REQUEST_GENERATED",
+      "id" : null,
+      "type" : "UXEVENT"
+    },
+    "sourceEventSysId" : null,
+    "targets" : [ {
+      "broker" : null,
+      "clientScript" : null,
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : {
+        "apiName" : "x_1106637_hrob_poc.NAV_ITEM_SELECTED_RELAY_6ea5a0300769b510151cfc018c1ed09f",
+        "payload" : {
+          "type" : "JSON_LITERAL",
+          "value" : {
+            "route" : "candidate-joining-details",
+            "fields" : null,
+            "params" : null,
+            "redirect" : null,
+            "passiveNavigation" : null,
+            "title" : null,
+            "multiInstField" : null,
+            "targetRoute" : null,
+            "external" : null
+          }
+        },
+        "sysId" : "86d5ec300769b510151cfc018c1ed06c"
+      },
+      "operation" : null,
+      "targetId" : "clmynmhhpcaambblddffhhwbbfrddffsge",
+      "type" : "EVENT"
+    } ]
+  } ],
+  "slot" : null,
+  "definition" : {
+    "id" : "afeef20635001010f877265d86f080df",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "rich_text_1",
+  "elementLabel" : "Rich text 1",
+  "propertyValues" : {
+    "html" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "&lt;p&gt;&lt;span style=\"text-decoration: underline; font-size: 24pt; color: #ffffff; background-color: #0e46b4;\"&gt;&lt;strong&gt;CANDIDATE DETAILS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+        "comment" : ""
+      }
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "2d56f06d55f46bbd4e79b5e624beb940",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <description/>
+        <dispatched_events>86d5ec300769b510151cfc018c1ed06c</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"element_id":"rich_text_1","styles":{"align-self":"center"}},{"element_id":"catalog_item_1","styles":{"border-color":"rgb(var(--now-color_surface--brand-4))","border-width":"var(--now-static-space--xxl)","border-style":"solid","background":"rgb(var(--now-color_surface--brand-1))","margin":"var(--now-static-space--lg)","margin-top":"var(--now-static-space--xs)","margin-right":"var(--now-static-space--3xl)","margin-left":"var(--now-static-space--3xl)","padding":"var(--now-static-space--lg)"}}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"flex-direction":"column","border-color":"rgb(var(--now-color--secondary-2))","border-width":"var(--now-static-space--lg)","border-style":"double","margin":"var(--now-static-space--lg)"},
+    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+    "type" : "flex"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>References page default</name>
+        <output_prop_mapping/>
+        <props>[ ]</props>
+        <required_translations>[ {
+  "message" : "&lt;p&gt;&lt;span style=\"text-decoration: underline; font-size: 24pt; color: #ffffff; background-color: #0e46b4;\"&gt;&lt;strong&gt;CANDIDATE DETAILS&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 08:30:43</sys_created_on>
+        <sys_id>6ea5a0300769b510151cfc018c1ed09f</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>References page default</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_macroponent_6ea5a0300769b510151cfc018c1ed09f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 09:40:27</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=6ea5a0300769b510151cfc018c1ed09f"/>
+</record_update>

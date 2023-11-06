@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Complete Medical Verification default">9b4da1f507b43110151cfc018c1ed0a1</macroponent>
+        <name>image_1/src</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+
+function evaluateProperty({api, helpers}) {
+	  var id_image = api.data.look_up_records_1.results.0.attached_photo.value;
+	return '/sys_attachment.do?sys_id='+id_image;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 10:31:21</sys_created_on>
+        <sys_id>fca7a5c607653110151cfc018c1ed015</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>image_1/src</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_client_script_fca7a5c607653110151cfc018c1ed015</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-06 09:49:46</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_client_script_fca7a5c607653110151cfc018c1ed015</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Complete Medical Verification default"&gt;9b4da1f507b43110151cfc018c1ed0a1&lt;/macroponent&gt;&lt;name&gt;image_1/src&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+
+function evaluateProperty({api, helpers}) {
+	  var id_image = api.data.look_up_records_1.results.0.attached_photo.value;
+	return '/sys_attachment.do?sys_id='+id_image;
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-09-29 10:31:21&lt;/sys_created_on&gt;&lt;sys_id&gt;fca7a5c607653110151cfc018c1ed015&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;image_1/src&lt;/sys_name&gt;&lt;sys_package display_value="HROB-POC" source="x_1106637_hrob_poc"&gt;b73392a507203110151cfc018c1ed083&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="HROB-POC"&gt;b73392a507203110151cfc018c1ed083&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_fca7a5c607653110151cfc018c1ed015&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-10-06 09:49:46&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1534410890</payload_hash>
+        <record_name>image_1/src</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-06 09:49:47</sys_created_on>
+        <sys_id>c4416d1c07f13110151cfc018c1ed0d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b0464a73b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-06 09:49:47</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>8c416d1ca9f13110820080fd43999fd1</update_guid>
+        <update_guid_history>8c416d1ca9f13110820080fd43999fd1:-1534410890,64f0291c79f131104afccd6d72ce3198:-1043220617,b4a7a5c60f653110947eac6b9247ab18:-541759643</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-06 10:13:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>00868be726bc4bc68c6ecce2837de151</sys_id>
+        <sys_metadata>fca7a5c607653110151cfc018c1ed015</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>image_1/src</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_fca7a5c607653110151cfc018c1ed015</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_fca7a5c607653110151cfc018c1ed015">c4416d1c07f13110151cfc018c1ed0d2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-06 10:13:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1106637_hrob_poc_log_in_user_data_table">active=true</condition>
+        <group/>
+        <name>HROB-POC Login - x_1106637_hrob_poc_log_in_user_da</name>
+        <roles/>
+        <source_table>x_1106637_hrob_poc_log_in_user_data_table</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>HROB_HR</sys_created_by>
+        <sys_created_on>2023-10-17 08:59:13</sys_created_on>
+        <sys_id>ee2ffd7b07757110151cfc018c1ed07c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HROB-POC Login - x_1106637_hrob_poc_log_in_user_da</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_search_source_ee2ffd7b07757110151cfc018c1ed07c</sys_update_name>
+        <sys_updated_by>HROB_HR</sys_updated_by>
+        <sys_updated_on>2023-10-17 08:59:13</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=ee2ffd7b07757110151cfc018c1ed07c"/>
+</record_update>

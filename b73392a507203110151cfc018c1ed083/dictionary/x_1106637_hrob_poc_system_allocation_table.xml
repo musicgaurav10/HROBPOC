@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7e80e22b07657110151cfc018c1ed099" label="System Allocation Table" max_length="40" name="x_1106637_hrob_poc_system_allocation_table" text_index="true" type="collection">
+        <element choice="1" label="Device" max_length="40" name="device" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Internet Dongle" sequence="0" value="internet_dongle"/>
+                <element inactive_on_update="false" label="Blackberry Phone" sequence="1" value="blackberry_phone"/>
+                <element inactive_on_update="false" label="iPad" sequence="2" value="ipad"/>
+                <element inactive_on_update="false" label="Web Camera" sequence="3" value="web_camera"/>
+                <element inactive_on_update="false" label="Head Phones" sequence="4" value="head_phones"/>
+                <element inactive_on_update="false" label="USB Mic" sequence="5" value="usb_mic"/>
+            </choice>
+        </element>
+        <element label="DVD-RW" max_length="40" name="dvd_rw" type="string"/>
+        <element label="Graphics Card" max_length="40" name="graphics_card" type="string"/>
+        <element choice="1" label="Hardware" max_length="40" name="hardware" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Phone" sequence="0" value="phone"/>
+                <element inactive_on_update="false" label="Internet Dongle" sequence="1" value="internet_dongle"/>
+                <element inactive_on_update="false" label="Tablet" sequence="2" value="tablet"/>
+            </choice>
+        </element>
+        <element label="Hard Disk" max_length="40" name="hard_disk" type="string"/>
+        <element label="Processor" max_length="40" name="processor" type="string"/>
+        <element label="RAM" max_length="40" name="ram" type="string"/>
+        <element label="Sound Card" max_length="40" name="sound_card" type="string"/>
+    </element>
+</database>

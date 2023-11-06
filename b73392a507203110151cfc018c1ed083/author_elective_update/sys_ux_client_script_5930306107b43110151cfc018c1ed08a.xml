@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Finance Dashboard default">0e4f90e907343110151cfc018c1ed0f0</macroponent>
+        <name>rowClick</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+
+
+
+function handler({api, event, helpers, imports}) {
+
+//var record = event.payload.row.rowData.value[3].value.columnData.displayValue;
+ event.location.href("www.google.com");
+}
+]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 10:25:08</sys_created_on>
+        <sys_id>5930306107b43110151cfc018c1ed08a</sys_id>
+        <sys_mod_count>37</sys_mod_count>
+        <sys_name>rowClick</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_client_script_5930306107b43110151cfc018c1ed08a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-22 07:14:25</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_client_script_5930306107b43110151cfc018c1ed08a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Finance Dashboard default"&gt;0e4f90e907343110151cfc018c1ed0f0&lt;/macroponent&gt;&lt;name&gt;rowClick&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+
+
+
+function handler({api, event, helpers, imports}) {
+
+//var record = event.payload.row.rowData.value[3].value.columnData.displayValue;
+ event.location.href("www.google.com");
+}
+]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-08-21 10:25:08&lt;/sys_created_on&gt;&lt;sys_id&gt;5930306107b43110151cfc018c1ed08a&lt;/sys_id&gt;&lt;sys_mod_count&gt;37&lt;/sys_mod_count&gt;&lt;sys_name&gt;rowClick&lt;/sys_name&gt;&lt;sys_package display_value="HROB-POC" source="x_1106637_hrob_poc"&gt;b73392a507203110151cfc018c1ed083&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="HROB-POC"&gt;b73392a507203110151cfc018c1ed083&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_5930306107b43110151cfc018c1ed08a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-22 07:14:25&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;default&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1547566417</payload_hash>
+        <record_name>rowClick</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-22 07:14:26</sys_created_on>
+        <sys_id>7d2e493507343110151cfc018c1ed0d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a1c1842cd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-22 07:14:26</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>752e49353a343110312f1e9c8061a9d7</update_guid>
+        <update_guid_history>752e49353a343110312f1e9c8061a9d7:-1547566417,85cccdb18a343110841667c7a91a2810:550834846,6143352183f8311021db742c3fecfdef:1731069488,45d2fd6d1cb83110e1e285f435572e12:488040116,53c071adcab83110fa6d89cd149aad48:-1251255737,d99031297fb831106de387a8784c3fc6:-32129538,2020b56dc9b831101ac03f4d1d7878cc:-1218435369,4ad3e1a1bbb83110d514866f93307268:-1681120103,0cc361a1aeb83110404df2b785bf1c24:-441106666,612c85a5ec3831106e20bc8422ea6549:-1126223242,89ab4d650338311008638134bb7f56fe:-1614605261,fd0b05657b383110de5a13093028b185:583501476,abb9cde1653831108572ffde80046b5d:1661290737,a43989a1443831107067d6e3d85976f2:2135598061,a13705618d383110ce02e34dd9252ee1:-1039097211,ac0efce5e7f43110f6590fa86373b6b5:-1323445437,7b09b8a1bdf431100be312615a293bef:-971976003,ede874a1dcf43110a522bde44d251981:-1691734033,72b8f0a1a7f43110ebfd490635b0fdfb:-1126384896,7f78bc61dcf4311027b99d80e2a276f1:368021950,c868f861f6f431108b0e091c743e0994:-2101356847,be08346199f43110ca50f9084ec7b072:368021950,d0c7bc21a0f43110dcbaac8d30a1f1a5:967884933,c277f0218cf431104d7d9c75cb6bb85d:1213424974,e147b02114f43110790132d3e47df282:-872798301,6237302160f4311010ed9c47d51d4ede:1213424974,38d6fcad61b4311011c293b4f68e2e7f:1829705255,8b76fcad62b43110f739f2ee296e5cb7:1355349154,494638ad08b4311030e915584bc2ce64:-1385618913,e4d53c6d7fb4311097a493afefb58c6b:1902333612,1dc5b82df5b4311016d8aeabe54fcc3c:-2074903856,b745f02df7b431109013593def3700d8:1758196930,2394b0e9dcb431108f89ae42351bfba1:-145848339,2834b8a916b431105d4ef8d01eb8eff3:1939158713,d652f8a55fb431109acea22d3a23bded:-1503248829,25d07ce158b431109c436590713c5976:-465269124,f660386164b43110430e0aab73324913:403776771,5d30b46189b431100de6299dd1bbd117:-1850913696</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-22 08:29:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>12d3dfc9694c480682729786b2b85cf9</sys_id>
+        <sys_metadata>5930306107b43110151cfc018c1ed08a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rowClick</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_5930306107b43110151cfc018c1ed08a</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_5930306107b43110151cfc018c1ed08a">7d2e493507343110151cfc018c1ed0d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-22 08:29:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

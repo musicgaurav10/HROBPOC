@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Confirmation Config">62b2977df1a0711040b78451eee7b7e9</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysid</fields>
+        <icon/>
+        <name>Visualization Designer</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>visualization-designer</route_type>
+        <screen_type display_value="Visualization Designer">a2b2977d68a07110bdc336402dd4ece8</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 06:38:01</sys_created_on>
+        <sys_id>aeb2977d3ea07110be5a1752aee595e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visualization Designer</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_app_route_aeb2977d3ea07110be5a1752aee595e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 06:38:01</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_app_route_aeb2977d3ea07110be5a1752aee595e3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Confirmation Config">62b2977df1a0711040b78451eee7b7e9</app_config><description/><extension_point/><fields>sysid</fields><icon/><name>Visualization Designer</name><optional_parameters/><order>0</order><parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>visualization-designer</route_type><screen_type display_value="Visualization Designer">a2b2977d68a07110bdc336402dd4ece8</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-10 06:38:01</sys_created_on><sys_id>aeb2977d3ea07110be5a1752aee595e3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Visualization Designer</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_app_route_aeb2977d3ea07110be5a1752aee595e3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-10 06:38:01</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>-1252308102</payload_hash>
+        <record_name>Visualization Designer</record_name>
+        <reverted_from/>
+        <source>7d81e6a307103110151cfc018c1ed001</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-08-03 03:16:41</sys_created_on>
+        <sys_id>29400c8e07647110151cfc018c1ed0c8</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>189b965c1a80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Route</type>
+        <update_guid>e5400c8e04647110f9cc35239cc949c8</update_guid>
+        <update_guid_history>e5400c8e04647110f9cc35239cc949c8:-1252308102</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 09:56:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>8ba71b7ac2624086b547aa24c141a061</sys_id>
+        <sys_metadata>aeb2977d3ea07110be5a1752aee595e3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visualization Designer</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_aeb2977d3ea07110be5a1752aee595e3</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_aeb2977d3ea07110be5a1752aee595e3">29400c8e07647110151cfc018c1ed0c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 09:56:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

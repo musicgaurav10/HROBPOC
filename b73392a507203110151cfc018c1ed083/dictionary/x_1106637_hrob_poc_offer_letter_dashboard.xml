@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2788bc3507b03110151cfc018c1ed0c1" label="Offer Letter Dashboard" max_length="40" name="x_1106637_hrob_poc_offer_letter_dashboard" text_index="true" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Process" max_length="40" name="process" type="string"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

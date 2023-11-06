@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,d5d732935301101017caddeeff7b12b3</associated_types>
+        <description/>
+        <image display_value="ui-builder-templates-left-and-right-sidebar.svg">b57f0e0877311010d99bbc3f681061c9</image>
+        <label>Portal Centered Column with Sidebars</label>
+        <macroponent display_value="Fixed Width One-Four-One">f049ab1f46157110a8a95beb88d541b4</macroponent>
+        <macroponent_config/>
+        <optional_properties/>
+        <order>0</order>
+        <required_properties/>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-21 06:54:29</sys_created_on>
+        <sys_id>fc49ab1fd31571100abb2172f35472b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Centered Column with Sidebars</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_uib_template_fc49ab1fd31571100abb2172f35472b3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-21 06:54:29</sys_updated_on>
+        <type/>
+    </sys_uib_template>
+</record_update>

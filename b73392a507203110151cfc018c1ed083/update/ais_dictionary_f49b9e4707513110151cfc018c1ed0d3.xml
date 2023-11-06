@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_1106637_hrob_poc_dashboard_candidate_provisioning,x_1106637_hrob_poc_cprofile_picture_omplete_reference_verification,x_1106637_hrob_poc_candidate_profile_details,x_1106637_hrob_poc_initiate_background_verification,x_1106637_hrob_poc_employee_full_details,x_1106637_hrob_poc_hrob_finance,x_1106637_hrob_poc_personal_details_dashboard,x_1106637_hrob_poc_previous_employee_details,x_1106637_hrob_poc_dashboard_hr,x_1106637_hrob_poc_initiate_medical_verification,x_1106637_hrob_poc_offer_letter_dashboard,x_1106637_hrob_poc_reference,x_1106637_hrob_poc_sample_data,x_1106637_hrob_poc_upload_verification_dashboard,x_1106637_hrob_poc_dasboard_data,x_1106637_hrob_poc_education_details,x_1106637_hrob_poc_employee_information,x_1106637_hrob_poc_rap_allocation_request,x_1106637_hrob_poc_offerletter_table,x_1106637_hrob_poc_initiate_provisioning,x_1106637_hrob_poc_applicant_table,x_1106637_hrob_poc_testing,x_1106637_hrob_poc_dashboard_medical_verification,x_1106637_hrob_poc_hrob_hr,x_1106637_hrob_poc_job_position,x_1106637_hrob_poc_resource_details_for_rpa_bot,x_1106637_hrob_poc_verification_status,x_1106637_hrob_poc_testing_table</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>HROB-POC search profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_1106637_hrob_poc_hrob_poc_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-20 06:36:30</sys_created_on>
+        <sys_id>f49b9e4707513110151cfc018c1ed0d3</sys_id>
+        <sys_mod_count>27</sys_mod_count>
+        <sys_name>x_1106637_hrob_poc_hrob_poc_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>ais_dictionary_f49b9e4707513110151cfc018c1ed0d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 06:36:35</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

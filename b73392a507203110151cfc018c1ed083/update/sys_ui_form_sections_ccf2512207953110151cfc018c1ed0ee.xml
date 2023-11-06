@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ccf2512207953110151cfc018c1ed0ee" sys_domain="global" table="x_1106637_hrob_poc_job_position" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84f2512207953110151cfc018c1ed0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1106637_hrob_poc_job_position" name="x_1106637_hrob_poc_job_position" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">ccf2512207953110151cfc018c1ed0ee</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1106637_hrob_poc_job_position" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">c4f2512207953110151cfc018c1ed0f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44f2512207953110151cfc018c1ed0f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1106637_hrob_poc_job_position" name="x_1106637_hrob_poc_job_position" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">ccf2512207953110151cfc018c1ed0ee</sys_ui_form>
+            <sys_ui_section caption="Renumeration Details" display_value="Renumeration Details" name="x_1106637_hrob_poc_job_position" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">44f2512207953110151cfc018c1ed0f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1106637_hrob_poc_job_position</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccf2512207953110151cfc018c1ed0ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1106637_hrob_poc_job_position</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ccf2512207953110151cfc018c1ed0ee</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace HROB Demo 0" name="Workspace-HROB-Demo-0">a9a251ae3c553110a6c2ef16efcc3a97</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

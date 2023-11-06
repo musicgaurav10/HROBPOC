@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2b18d11e07a8b110151cfc018c1ed00a" label="Applicant table" max_length="40" name="x_1106637_hrob_poc_applicant_table" text_index="true" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Joining Date" max_length="40" name="joining_date" type="glide_date"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="Middle Name" max_length="40" name="middle_name" type="string"/>
+        <element label="Position Name" max_length="40" name="position_name" type="string"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element label="Street Address" max_length="40" name="street_address" type="string"/>
+        <element default="6f9a6d92072cb110151cfc018c1ed03d" display="true" label="Template" max_length="32" name="template" reference="sn_doc_html_template" type="reference"/>
+        <element label="Zip Code" max_length="40" name="zip_code" type="integer"/>
+        <index name="index">
+            <element name="template"/>
+        </index>
+    </element>
+</database>

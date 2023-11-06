@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Education Details">87d9d0a307197110151cfc018c1ed0e9</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-21 10:30:29</sys_created_on>
+        <sys_id>3dbadce307197110151cfc018c1ed0c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Education Details</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sc_cat_item_category_3dbadce307197110151cfc018c1ed0c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-21 10:30:29</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sc_cat_item_category_3dbadce307197110151cfc018c1ed0c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Education Details">87d9d0a307197110151cfc018c1ed0e9</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-21 10:30:29</sys_created_on><sys_id>3dbadce307197110151cfc018c1ed0c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Education Details</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sc_cat_item_category_3dbadce307197110151cfc018c1ed0c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-21 10:30:29</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1455233958</payload_hash>
+        <record_name>Can We Help You?.Education Details</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-21 10:30:29</sys_created_on>
+        <sys_id>75badce307197110151cfc018c1ed0cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ab74a861c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-21 10:30:29</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b9badce3c2197110d70ea41741faeacc</update_guid>
+        <update_guid_history>b9badce3c2197110d70ea41741faeacc:1455233958</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Education Details">f4ca142707197110151cfc018c1ed016</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-21 10:30:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>4b10777116fc43c09a6b155bdbcc7271</sys_id>
+        <sys_metadata>3dbadce307197110151cfc018c1ed0c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Education Details</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_3dbadce307197110151cfc018c1ed0c9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_3dbadce307197110151cfc018c1ed0c9">75badce307197110151cfc018c1ed0cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-21 10:30:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

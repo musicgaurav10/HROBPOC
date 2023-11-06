@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Review Employee Details default">2d3f3f3d07647110151cfc018c1ed034</macroponent>
+        <name>input_1/placeholder</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[<!DOCTYPE html>
+<html>
+  
+<body style="text-align:center;">
+    <h1 style="color:green;">  
+            GeeksforGeeks  
+    </h1>
+    <h2>Text value property</h2>
+    <p>
+        Change the text of the text field, 
+        and then click the button below. 
+    </p>
+   
+    Name:<input type="text" id="myText" value="Mickey">
+    <button type="button" onclick="myFunction()">Try it</button>
+    <p id="demo"></p>
+  
+      
+    <script>
+      
+    // Here the value is stored in new variable x 
+    function myFunction() {
+        var x = document.getElementById("myText").value;
+        document.getElementById("demo").innerHTML = x;
+    }
+    </script>
+</body>
+  
+</html>]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 14:00:25</sys_created_on>
+        <sys_id>73f7b08607687110151cfc018c1ed091</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>input_1/placeholder</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_client_script_73f7b08607687110151cfc018c1ed091</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 14:00:25</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_client_script_73f7b08607687110151cfc018c1ed091</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Review Employee Details default"&gt;2d3f3f3d07647110151cfc018c1ed034&lt;/macroponent&gt;&lt;name&gt;input_1/placeholder&lt;/name&gt;&lt;preset/&gt;&lt;required_translations/&gt;&lt;script&gt;&lt;![CDATA[&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  
+&lt;body style="text-align:center;"&gt;
+    &lt;h1 style="color:green;"&gt;  
+            GeeksforGeeks  
+    &lt;/h1&gt;
+    &lt;h2&gt;Text value property&lt;/h2&gt;
+    &lt;p&gt;
+        Change the text of the text field, 
+        and then click the button below. 
+    &lt;/p&gt;
+   
+    Name:&lt;input type="text" id="myText" value="Mickey"&gt;
+    &lt;button type="button" onclick="myFunction()"&gt;Try it&lt;/button&gt;
+    &lt;p id="demo"&gt;&lt;/p&gt;
+  
+      
+    &lt;script&gt;
+      
+    // Here the value is stored in new variable x 
+    function myFunction() {
+        var x = document.getElementById("myText").value;
+        document.getElementById("demo").innerHTML = x;
+    }
+    &lt;/script&gt;
+&lt;/body&gt;
+  
+&lt;/html&gt;]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-08-10 14:00:25&lt;/sys_created_on&gt;&lt;sys_id&gt;73f7b08607687110151cfc018c1ed091&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;input_1/placeholder&lt;/sys_name&gt;&lt;sys_package display_value="HROB-POC" source="x_1106637_hrob_poc"&gt;b73392a507203110151cfc018c1ed083&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="HROB-POC"&gt;b73392a507203110151cfc018c1ed083&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_73f7b08607687110151cfc018c1ed091&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-10 14:00:25&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-887611159</payload_hash>
+        <record_name>input_1/placeholder</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 14:00:26</sys_created_on>
+        <sys_id>bbf7b08607687110151cfc018c1ed094</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189dfbfa6bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 14:00:26</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>37f7b086a5687110ef2d24a991b26594</update_guid>
+        <update_guid_history>37f7b086a5687110ef2d24a991b26594:-887611159</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 08:53:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>207bdff98dcb4f80909cb855cc1ee084</sys_id>
+        <sys_metadata>73f7b08607687110151cfc018c1ed091</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>input_1/placeholder</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_73f7b08607687110151cfc018c1ed091</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_73f7b08607687110151cfc018c1ed091">bbf7b08607687110151cfc018c1ed094</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 08:53:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

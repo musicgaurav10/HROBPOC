@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">f849ab1fd515711040dd9547bae2eab7</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">b049ab1f8b1571103587425a96ce6daa</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-21 06:54:29</sys_created_on>
+        <sys_id>3c49ab1f291571107b61fd955efb82a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_3c49ab1f291571107b61fd955efb82a6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-21 06:54:29</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

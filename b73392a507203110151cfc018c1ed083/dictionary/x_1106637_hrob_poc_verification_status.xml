@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f929c4160764b110151cfc018c1ed02f" label="Verification Status" max_length="40" name="x_1106637_hrob_poc_verification_status" text_index="true" type="collection">
+        <element label="End Date" max_length="40" name="end_date" type="string"/>
+        <element label="Initiated By" max_length="40" name="initiated_by" type="string"/>
+        <element label="Start Date" max_length="40" name="start_date" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element display="true" label="Verification Type" max_length="40" name="verification_type" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="HROB-POC Login">811ff57bf5757110f5fdc87d9e6ce45e</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>HROB_HR</sys_created_by>
+        <sys_created_on>2023-10-17 08:58:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>091ff57bf475711078061e9741376664</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_ux_page_property_091ff57bf475711078061e9741376664</sys_update_name>
+        <sys_updated_by>HROB_HR</sys_updated_by>
+        <sys_updated_on>2023-10-17 08:58:56</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1106637_hrob_poc.811ff57bf5757110f5fdc87d9e6ce45e.root.wbApplicabilityConfigId</unique_name>
+        <value>d61f397b07757110151cfc018c1ed031</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=091ff57bf475711078061e9741376664"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_ux_page_property_091ff57bf475711078061e9741376664</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>sys_ux_applicability sys_id for Workspace audience</description><name>wbApplicabilityConfigId</name><page display_value="HROB-POC Login">811ff57bf5757110f5fdc87d9e6ce45e</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>HROB_HR</sys_created_by><sys_created_on>2023-10-17 08:58:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>091ff57bf475711078061e9741376664</sys_id><sys_mod_count>1</sys_mod_count><sys_name>wbApplicabilityConfigId</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_update_name>sys_ux_page_property_091ff57bf475711078061e9741376664</sys_update_name><sys_updated_by>HROB_HR</sys_updated_by><sys_updated_on>2023-10-17 08:58:56</sys_updated_on><type>string</type><unique_name>x_1106637_hrob_poc.811ff57bf5757110f5fdc87d9e6ce45e.root.wbApplicabilityConfigId</unique_name><value>d61f397b07757110151cfc018c1ed031</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=091ff57bf475711078061e9741376664"/></record_update>]]></payload>
+        <payload_hash>-1241731716</payload_hash>
+        <record_name>wbApplicabilityConfigId</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>HROB_HR</sys_created_by>
+        <sys_created_on>2023-10-17 08:58:56</sys_created_on>
+        <sys_id>521f397b07757110151cfc018c1ed038</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b3cdc0e940000001</sys_recorded_at>
+        <sys_updated_by>HROB_HR</sys_updated_by>
+        <sys_updated_on>2023-10-17 08:58:56</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>d61f397b85757110945f2ebd3d5da737</update_guid>
+        <update_guid_history>d61f397b85757110945f2ebd3d5da737:-1241731716,521f397b36757110c9cef7a3b7077936:1758468179</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>HROB_RM</sys_created_by>
+        <sys_created_on>2023-10-17 09:16:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2806e5f39f714e809d9c2b651abae400</sys_id>
+        <sys_metadata>091ff57bf475711078061e9741376664</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_091ff57bf475711078061e9741376664</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_091ff57bf475711078061e9741376664">521f397b07757110151cfc018c1ed038</sys_update_version>
+        <sys_updated_by>HROB_RM</sys_updated_by>
+        <sys_updated_on>2023-10-17 09:16:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="edc9bbf507647110151cfc018c1ed063" label="Dasboard_Data" max_length="40" name="x_1106637_hrob_poc_dasboard_data" text_index="true" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Process" max_length="40" name="process" type="string"/>
+        <element display="true" label="Start Time" max_length="40" name="start_time" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

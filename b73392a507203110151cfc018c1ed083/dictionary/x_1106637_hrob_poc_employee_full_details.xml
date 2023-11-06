@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b388e41f07243110151cfc018c1ed00d" label="Employee full details" max_length="40" name="x_1106637_hrob_poc_employee_full_details" text_index="true" type="collection">
+        <element label="Email Id" mandatory="true" max_length="40" name="email_id" type="string"/>
+        <element label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="User Id" mandatory="true" max_length="40" name="user_id" type="string"/>
+    </element>
+</database>

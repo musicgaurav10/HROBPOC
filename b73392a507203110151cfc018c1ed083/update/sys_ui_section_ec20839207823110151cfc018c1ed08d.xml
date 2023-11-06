@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="x_1106637_hrob_poc_candidate_profile_det" section_id="ec20839207823110151cfc018c1ed08d" sys_domain="global" table="x_1106637_hrob_poc_candidate_profile_details" version="3" view="offerLetter">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>offerletter</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-25 08:08:33</sys_created_on>
+            <sys_id>1a40879207823110151cfc018c1ed06d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1106637_hrob_poc_candidate_profile_det" display_value="x_1106637_hrob_poc_candidate_profile_det" name="x_1106637_hrob_poc_candidate_profile_details" sys_domain="global" view="6c20839207823110151cfc018c1ed089">ec20839207823110151cfc018c1ed08d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-25 08:08:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>x_1106637_hrob_poc_candidate_profile_det</caption>
+            <header>false</header>
+            <name>x_1106637_hrob_poc_candidate_profile_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-25 08:07:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec20839207823110151cfc018c1ed08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1106637_hrob_poc_candidate_profile_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_ui_section_ec20839207823110151cfc018c1ed08d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-25 08:07:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="offerLetter" name="offerLetter">6c20839207823110151cfc018c1ed089</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

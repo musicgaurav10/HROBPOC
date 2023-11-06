@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6990b8a107b43110151cfc018c1ed0e0" sys_domain="global" table="x_1106637_hrob_poc_initiate_background_verification" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:26:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21903ca107b43110151cfc018c1ed0ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1106637_hrob_poc_initiate_background_verification" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">6990b8a107b43110151cfc018c1ed0e0</sys_ui_form>
+            <sys_ui_section caption="Onboarding Status" display_value="Onboarding Status" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">1e10fc2107b43110151cfc018c1ed0c7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:26:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:26:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad903ca107b43110151cfc018c1ed0ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1106637_hrob_poc_initiate_background_verification" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">6990b8a107b43110151cfc018c1ed0e0</sys_ui_form>
+            <sys_ui_section caption="Candidate Personal Details" display_value="Candidate Personal Details" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">2190b8a107b43110151cfc018c1ed0e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:26:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:30:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f081b46507b43110151cfc018c1ed0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1106637_hrob_poc_initiate_background_verification" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">6990b8a107b43110151cfc018c1ed0e0</sys_ui_form>
+            <sys_ui_section caption="Education Details" display_value="Education Details" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">a881b46507b43110151cfc018c1ed012</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:30:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:36:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7fb2b4e507b43110151cfc018c1ed0a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1106637_hrob_poc_initiate_background_verification" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">6990b8a107b43110151cfc018c1ed0e0</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">67b2b4e507b43110151cfc018c1ed0a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:36:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:41:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6be374a907b43110151cfc018c1ed0d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1106637_hrob_poc_initiate_background_verification" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">6990b8a107b43110151cfc018c1ed0e0</sys_ui_form>
+            <sys_ui_section caption="Recent Employment Information" display_value="Recent Employment Information" name="x_1106637_hrob_poc_initiate_background_verification" sys_domain="global" view="Default view">9fe374a907b43110151cfc018c1ed0cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:41:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1106637_hrob_poc_initiate_background_verification</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-21 10:26:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6990b8a107b43110151cfc018c1ed0e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1106637_hrob_poc_initiate_background_verification</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6990b8a107b43110151cfc018c1ed0e0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:26:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

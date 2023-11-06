@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="HROB-POC HR">4a704cdff2603110731837be3009b36b</dashboard>
+        <experience display_value="HROB-POC HR">02704cdf6660311006519d45cdeb926c</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 07:10:14</sys_created_on>
+        <sys_id>46704cdf0c6031105a803f27a0180270</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>par_dashboard_visibility_46704cdf0c6031105a803f27a0180270</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 07:10:14</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

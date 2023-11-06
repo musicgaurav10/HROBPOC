@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="device" table="x_1106637_hrob_poc_system_allocation_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>device</element>
+            <name>x_1106637_hrob_poc_system_allocation_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-04 06:46:28</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>device</sys_name>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_choice_x_1106637_hrob_poc_system_allocation_table_device</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-04 06:46:28</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Internet Dongle</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_system_allocation_table</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-04 06:46:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9314e22307a57110151cfc018c1ed0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-04 06:46:28</sys_updated_on>
+            <value>internet_dongle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blackberry Phone</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_system_allocation_table</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-04 06:46:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2714e22307a57110151cfc018c1ed0af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-04 06:46:29</sys_updated_on>
+            <value>blackberry_phone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>iPad</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_system_allocation_table</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-04 06:46:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a314e22307a57110151cfc018c1ed0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-04 06:46:29</sys_updated_on>
+            <value>ipad</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Web Camera</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_system_allocation_table</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-04 06:46:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2314e22307a57110151cfc018c1ed0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-04 06:46:29</sys_updated_on>
+            <value>web_camera</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Head Phones</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_system_allocation_table</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-04 06:46:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6714e22307a57110151cfc018c1ed0be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-04 06:46:29</sys_updated_on>
+            <value>head_phones</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>device</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USB Mic</label>
+            <language>en</language>
+            <name>x_1106637_hrob_poc_system_allocation_table</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-04 06:46:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e314e22307a57110151cfc018c1ed0bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-04 06:46:29</sys_updated_on>
+            <value>usb_mic</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

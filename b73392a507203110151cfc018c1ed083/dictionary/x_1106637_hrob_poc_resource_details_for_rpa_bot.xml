@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5fde1a3507b83110151cfc018c1ed034" label="Resource Details for RPA bot" max_length="40" name="x_1106637_hrob_poc_resource_details_for_rpa_bot" text_index="true" type="collection">
+        <element label="Badge Type" max_length="40" name="badge_type" type="string"/>
+        <element label="Business Card Title" max_length="40" name="business_card_title" type="string"/>
+        <element label="Emp Name" max_length="40" name="emp_name" type="string"/>
+    </element>
+</database>

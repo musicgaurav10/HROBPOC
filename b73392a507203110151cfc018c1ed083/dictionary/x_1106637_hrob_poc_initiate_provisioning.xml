@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="76c238e507b43110151cfc018c1ed013" label="Initiate Provisioning" max_length="40" name="x_1106637_hrob_poc_initiate_provisioning" text_index="true" type="collection">
+        <element label="Comment" max_length="40" name="comment" type="string"/>
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element label="Location:" max_length="40" name="location" type="string"/>
+        <element label="Name:" max_length="40" name="name" type="string"/>
+        <element label="Offered Position:" max_length="40" name="offered_position" type="string"/>
+        <element label="Onboarding Start Date:" max_length="40" name="onboarding_start_date" type="glide_date"/>
+        <element label="Onboarding Status:" max_length="40" name="onboarding_status" type="string"/>
+        <element label="Profile Picture:" max_length="40" name="profile_picture" type="file_attachment"/>
+        <element label="Verification Status" max_length="32" name="verification_status" reference="x_1106637_hrob_poc_verification_status" type="reference"/>
+        <index name="index">
+            <element name="verification_status"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ca7ff38f07603110151cfc018c1ed00b" label="HROB_HR" max_length="40" name="x_1106637_hrob_poc_hrob_hr" text_index="true" type="collection">
+        <element label="Candidate Id" max_length="40" name="candidate_id" type="string"/>
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element choice="3" label="Process" max_length="40" name="process" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Employee Provision Process" sequence="0" value="Provision"/>
+                <element inactive_on_update="false" label="Final Employee Onbording Process" sequence="1" value="Final"/>
+            </choice>
+        </element>
+        <element default="javascript:gs.now()" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Start Date" max_length="40" name="start_date" type="glide_date" use_dynamic_default="true"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

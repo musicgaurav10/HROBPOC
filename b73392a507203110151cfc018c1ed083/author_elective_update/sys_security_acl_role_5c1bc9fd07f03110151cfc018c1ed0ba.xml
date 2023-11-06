@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-22 07:00:58</sys_created_on>
+        <sys_id>5c1bc9fd07f03110151cfc018c1ed0ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1106637_hrob_poc_remuneration_details.x_1106637_hrob_poc.HROB_SERVICENOW_RPA_BOT</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_security_acl display_value="x_1106637_hrob_poc_remuneration_details">581b89fd07f03110151cfc018c1ed09a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5c1bc9fd07f03110151cfc018c1ed0ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-22 07:00:58</sys_updated_on>
+        <sys_user_role display_value="x_1106637_hrob_poc.HROB_SERVICENOW_RPA_BOT" name="x_1106637_hrob_poc.HROB_SERVICENOW_RPA_BOT">f4a76fcc07347110151cfc018c1ed050</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HROB-POC">b73392a507203110151cfc018c1ed083</application>
+        <file_path/>
+        <instance_id>63d61308dba72c90d5c911f8489619e4</instance_id>
+        <instance_name>dev111426</instance_name>
+        <name>sys_security_acl_role_5c1bc9fd07f03110151cfc018c1ed0ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-22 07:00:58</sys_created_on><sys_id>5c1bc9fd07f03110151cfc018c1ed0ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1106637_hrob_poc_remuneration_details.x_1106637_hrob_poc.HROB_SERVICENOW_RPA_BOT</sys_name><sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package><sys_policy/><sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope><sys_security_acl display_value="x_1106637_hrob_poc_remuneration_details">581b89fd07f03110151cfc018c1ed09a</sys_security_acl><sys_update_name>sys_security_acl_role_5c1bc9fd07f03110151cfc018c1ed0ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-22 07:00:58</sys_updated_on><sys_user_role display_value="x_1106637_hrob_poc.HROB_SERVICENOW_RPA_BOT" name="x_1106637_hrob_poc.HROB_SERVICENOW_RPA_BOT">f4a76fcc07347110151cfc018c1ed050</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1337804378</payload_hash>
+        <record_name>x_1106637_hrob_poc_remuneration_details.x_1106637_hrob_poc.HROB_SERVICENOW_RPA_BOT</record_name>
+        <reverted_from/>
+        <source>fb3392a507203110151cfc018c1ed085</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-22 07:00:58</sys_created_on>
+        <sys_id>9c1bc9fd07f03110151cfc018c1ed0bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a1c0bed6d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-22 07:00:58</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d41bc9fd7ff031104d38721485bc85bc</update_guid>
+        <update_guid_history>d41bc9fd7ff031104d38721485bc85bc:1337804378</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1106637_hrob_poc_remuneration_details.x_1106637_hrob_poc.HROB_SERVICENOW_RPA_B">d84bc93107343110151cfc018c1ed053</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-22 07:01:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>004d47b39ddd4d8b8596e3c81fa81b21</sys_id>
+        <sys_metadata>5c1bc9fd07f03110151cfc018c1ed0ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1106637_hrob_poc_remuneration_details.x_1106637_hrob_poc.HROB_SERVICENOW_RPA_BOT</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_parent display_value="">581b89fd07f03110151cfc018c1ed09a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_scope_delete display_value="">5de845699e854427af7c691cd76b9241</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_5c1bc9fd07f03110151cfc018c1ed0ba</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_5c1bc9fd07f03110151cfc018c1ed0ba">9c1bc9fd07f03110151cfc018c1ed0bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-22 07:01:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

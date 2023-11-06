@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="efd785d60768b110151cfc018c1ed00d" label="Employee Information" max_length="40" name="x_1106637_hrob_poc_employee_information" text_index="true" type="collection">
+        <element label="attachment" max_length="40" name="attachment" type="file_attachment"/>
+    </element>
+</database>

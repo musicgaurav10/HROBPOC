@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="HROB_HR">1680041307a03110151cfc018c1ed04f</ais_search_source>
+        <label>HROB_HR</label>
+        <name>HROB_HR</name>
+        <order>1600</order>
+        <search_context_config display_value="HROB-POC Login AI Search Configuration">811ff57bc37571107362a444184f015f</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>HROB_HR</sys_created_by>
+        <sys_created_on>2023-10-17 08:59:26</sys_created_on>
+        <sys_id>2d3ff1bb07757110151cfc018c1ed075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HROB_HR</sys_name>
+        <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+        <sys_update_name>sys_search_filter_2d3ff1bb07757110151cfc018c1ed075</sys_update_name>
+        <sys_updated_by>HROB_HR</sys_updated_by>
+        <sys_updated_on>2023-10-17 08:59:26</sys_updated_on>
+    </sys_search_filter>
+</record_update>

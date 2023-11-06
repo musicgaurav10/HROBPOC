@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1106637_hrob_poc_previous_employee_details" version="2" view="Workspace-HROB-Demo-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>actual_bonus_awarded_last_year</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>58f2912207953110151cfc018c1ed099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>city</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>5cf2912207953110151cfc018c1ed099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>50f2912207953110151cfc018c1ed09a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>country</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>54f2912207953110151cfc018c1ed09a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>employment_end_date</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>58f2912207953110151cfc018c1ed09a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>employment_start_date</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>5cf2912207953110151cfc018c1ed09a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ending_base_salary</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>50f2912207953110151cfc018c1ed09b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ending_job_title</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>98f2912207953110151cfc018c1ed0c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ending_target_bonus</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>9cf2912207953110151cfc018c1ed0c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>phone</element>
+            <list_id display_value="x_1106637_hrob_poc_previous_employee_details" element="NULL" name="x_1106637_hrob_poc_previous_employee_details" parent="NULL" relationship="NULL" sys_domain="global" view="a9a251ae3c553110a6c2ef16efcc3a97">dcf2912207953110151cfc018c1ed098</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_id>90f2912207953110151cfc018c1ed0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1106637_hrob_poc_previous_employee_details</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 12:02:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dcf2912207953110151cfc018c1ed098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1106637_hrob_poc_previous_employee_details</sys_name>
+            <sys_package display_value="HROB-POC" source="x_1106637_hrob_poc">b73392a507203110151cfc018c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HROB-POC">b73392a507203110151cfc018c1ed083</sys_scope>
+            <sys_update_name>sys_ui_list_x_1106637_hrob_poc_previous_employee_details_Workspace-x_1106637_hrob_poc-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 12:02:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace HROB Demo 0" name="Workspace-HROB-Demo-0">a9a251ae3c553110a6c2ef16efcc3a97</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
